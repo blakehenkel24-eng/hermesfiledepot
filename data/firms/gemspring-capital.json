@@ -90,7 +90,13 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/fund/23351-59F"
+    },
+    {
+      "name": "Sitemetric",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:09:11.455244"
+  "portfolioLastResearched": "2026-04-21T18:47:27.447684"
 }

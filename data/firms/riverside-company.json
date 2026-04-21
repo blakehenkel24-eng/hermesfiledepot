@@ -148,7 +148,13 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://www.riversidecompany.com/"
+    },
+    {
+      "name": "Newsguard",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.inc.com/profile/the-riverside-company"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:18:25.597744"
+  "portfolioLastResearched": "2026-04-21T18:59:17.059078"
 }

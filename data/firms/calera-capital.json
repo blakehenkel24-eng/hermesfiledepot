@@ -121,7 +121,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/investor/10121-68"
+    },
+    {
+      "name": "Fandisentinel Logo",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.caleracapital.com/sector-focus/portfolio/imagefirst.html"
+    },
+    {
+      "name": "F&I Sentinel",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:06:28.093811"
+  "portfolioLastResearched": "2026-04-21T18:44:05.947067"
 }

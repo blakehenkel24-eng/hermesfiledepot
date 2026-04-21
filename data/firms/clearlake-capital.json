@@ -110,7 +110,469 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://whalewisdom.com/filer/clearlake-capital-group-lp"
+    },
+    {
+      "name": "Amquip",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Archer",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Rsa",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Ipg",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Jacuzzi",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Appriss Insights",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Terrepower",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Confluence",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Ixs",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Alkegen",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Victory Live",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Shiftkey",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Symplr",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Springs Window Fashions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Modmed",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Wheel Pros",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Netwitness",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Inventus",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Ashley Stewart",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Black Duck",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Janus",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Owyn",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Platinum Energy Solutions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Calero",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Eagleview",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Finthrive",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Mycom Osi",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Chefs Cut Real Jerky",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Dun Bradstreet",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Wellness Pet Company",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Lytx",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Buy",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Netdocuments",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Precisely",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Provation",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Team Technologies",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Thats How We Roll",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Convergeone",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Zywave",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Crash Champions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Tungsten Automation",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Alteryx",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "International Textile Group",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Pretium",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Dodge Construction Network",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "From The Ground Up",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Discovery Education",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Sage Automotive Interiors",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Ivanti",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Bamboo Health",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Primesource",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Pomeroy",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Gravity Oilfield Services Inc",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Outseer",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Metricstream",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Betanxt",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Mformation",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Learfield",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Beyondtrust",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Amcs",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Primesport",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Knight Energy Services",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Solutionary",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Compudyne Corporation",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Hi Crush",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Purple Communications",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "American Construction Source",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Sensible Portions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Investcloud",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Smart Sand",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Newfold Digital",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Digicert",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Jetsmarter",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Aptean",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Bakemark",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Floworks",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
+    },
+    {
+      "name": "Bluefly",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.clearlakecapital.com/portfolio"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:07:45.396293"
+  "portfolioLastResearched": "2026-04-21T18:45:51.718589"
 }

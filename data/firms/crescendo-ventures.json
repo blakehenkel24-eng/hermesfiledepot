@@ -214,7 +214,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/fund/11149-39F"
+    },
+    {
+      "name": "Arteris IP",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "CallidusCloud",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:08:05.895670"
+  "portfolioLastResearched": "2026-04-21T18:46:13.966702"
 }

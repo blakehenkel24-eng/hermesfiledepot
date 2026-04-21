@@ -113,7 +113,13 @@
       "industry": "Software",
       "status": "active",
       "source": "https://en.wikipedia.org/wiki/Lone_Star_Funds"
+    },
+    {
+      "name": "Lone",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://app.dealroom.co/investors/lone_star_funds"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:13:37.731604"
+  "portfolioLastResearched": "2026-04-21T18:52:59.320500"
 }

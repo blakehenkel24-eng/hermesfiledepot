@@ -90,7 +90,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://tracxn.com/d/private-equity/harbertmanagement/__5x44VXrYgG0Kpbtl_SLddu_Vpl5fiCCJKCn-hTiUX3c"
+    },
+    {
+      "name": "Oracle",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:10:20.793144"
+  "portfolioLastResearched": "2026-04-21T18:48:45.611088"
 }

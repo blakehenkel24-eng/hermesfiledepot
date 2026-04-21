@@ -200,7 +200,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://grokipedia.com/page/civc_partners"
+    },
+    {
+      "name": "Piedmont Television Holdings",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11391-58F"
+    },
+    {
+      "name": "TransWestern Publishing Company",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11391-58F"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:07:25.477419"
+  "portfolioLastResearched": "2026-04-21T18:45:28.555247"
 }

@@ -101,7 +101,43 @@
       "industry": "Software",
       "status": "active",
       "source": "https://en.wikipedia.org/wiki/Morrison_%26_Co"
+    },
+    {
+      "name": "Universal Turbine Parts",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Duckhorn",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.gipartners.com/private-equity/portfolio"
+    },
+    {
+      "name": "Flexential",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.gipartners.com/private-equity/portfolio"
+    },
+    {
+      "name": "MRI",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.gipartners.com/private-equity/portfolio"
+    },
+    {
+      "name": "SoftLayer",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.gipartners.com/private-equity/portfolio"
+    },
+    {
+      "name": "Linc",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.gipartners.com/private-equity/portfolio"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:09:40.892022"
+  "portfolioLastResearched": "2026-04-21T18:48:00.149416"
 }

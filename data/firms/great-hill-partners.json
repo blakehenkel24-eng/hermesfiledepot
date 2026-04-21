@@ -100,7 +100,25 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://www.greathillpartners.com/about"
+    },
+    {
+      "name": "Anthem Education Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "AffiniPay",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "All Web Leads",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:09:56.956258"
+  "portfolioLastResearched": "2026-04-21T18:48:13.154334"
 }

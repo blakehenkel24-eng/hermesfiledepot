@@ -67,17 +67,41 @@
       "source": "tavily-ai-answer"
     },
     {
-      "name": "Lang Company",
+      "name": "Edme Insurance Brokers",
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/investor/10062-28"
     },
     {
-      "name": "Edme Insurance Brokers",
+      "name": "Welocalize",
       "industry": "Unknown",
       "status": "active",
-      "source": "https://pitchbook.com/profiles/investor/10062-28"
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "US Foods Holding",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/10926-28F"
+    },
+    {
+      "name": "The Terminix International Company",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/10926-28F"
+    },
+    {
+      "name": "Arteriors Home",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/14995-72F"
+    },
+    {
+      "name": "Coretelligent",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/14995-72F"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:16:58.340748"
+  "portfolioLastResearched": "2026-04-21T18:57:32.642704"
 }

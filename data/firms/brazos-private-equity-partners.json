@@ -80,7 +80,13 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://tracxn.com/d/private-equity/brazos-private-equity-partners/__Q4Y6OunIrrZKuv4CkcQCZ25TdZC5FvKvTotklhlo9Tc"
+    },
+    {
+      "name": "Eberle Design",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:06:16.880678"
+  "portfolioLastResearched": "2026-04-21T18:43:54.935223"
 }

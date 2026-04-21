@@ -112,7 +112,13 @@
       "industry": "Software",
       "status": "active",
       "source": "https://en.wikipedia.org/wiki/KPS_Capital_Partners"
+    },
+    {
+      "name": "Valto Engineered Materials",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:12:50.401748"
+  "portfolioLastResearched": "2026-04-21T18:51:55.624474"
 }

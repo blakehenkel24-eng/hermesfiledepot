@@ -85,18 +85,6 @@
       "status": "exited"
     },
     {
-      "name": "Mattco Forge",
-      "industry": "Unknown",
-      "status": "active",
-      "source": "tavily-ai-answer"
-    },
-    {
-      "name": "Brimar Industries",
-      "industry": "Unknown",
-      "status": "active",
-      "source": "tavily-ai-answer"
-    },
-    {
       "name": "Russell Hendrix Foodservice Equipment",
       "industry": "Unknown",
       "status": "active",
@@ -113,7 +101,115 @@
       "industry": "Unknown",
       "status": "active",
       "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Local Crafts",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Sylvan Group",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Pinnacle Mep Pinnacle",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Vrc Holdings Inc",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Mattco Forge Inc",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Tas Environmental Services",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Siffron",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Next Level Apparel",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Water Lilies Food Llc",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Weaver Leather",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Spector Co",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "National Ondemand Inc",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Brimar Industries Llc",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "Europa Eyewear",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.bluepointcapital.com/portfolio"
+    },
+    {
+      "name": "San Francisco",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "Stripe",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "Databricks",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "OpenAI",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:06:00.002577"
+  "portfolioLastResearched": "2026-04-21T18:43:42.150748"
 }

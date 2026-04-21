@@ -50,12 +50,6 @@
       "source": "tavily-ai-answer"
     },
     {
-      "name": "Home2 Suites",
-      "industry": "Unknown",
-      "status": "active",
-      "source": "tavily-ai-answer"
-    },
-    {
       "name": "Fairfield Inn Evansville East",
       "industry": "Unknown",
       "status": "active",
@@ -72,7 +66,55 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://www.peachtreegroup.com/faq"
+    },
+    {
+      "name": "Looking up at modern glass and steel office buildings with grid-patterned windows and a pale sky background",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.peachtreehotelgroup.com/portfolio"
+    },
+    {
+      "name": "Bloomberg Television",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.peachtreehotelgroup.com/portfolio"
+    },
+    {
+      "name": "INC. 5000",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.peachtreehotelgroup.com/portfolio"
+    },
+    {
+      "name": "White multi-story building with large windows and palm trees in front under a clear blue sky",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.peachtreehotelgroup.com/portfolio"
+    },
+    {
+      "name": "Canopy",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Embassy Suites",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "AC Hotel",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Impact Properties",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.cbinsights.com/company/peachtree-hotel-group"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:17:26.276043"
+  "portfolioLastResearched": "2026-04-21T18:58:11.012580"
 }

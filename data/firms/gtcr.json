@@ -130,7 +130,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/investor/10035-37"
+    },
+    {
+      "name": "Global Payments",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "AGIC Capital",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.gtcr.com/gtcr-announces-200-million-strategic-minority-investment-in-solmetex/"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:10:09.599252"
+  "portfolioLastResearched": "2026-04-21T18:48:25.332312"
 }

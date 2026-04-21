@@ -81,7 +81,73 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://tracxn.com/d/private-equity/msouth-equity-partners/__dkZhJcP6Vtj772Rm9Jvll6FTJhD12A7XOXVCSMGg324"
+    },
+    {
+      "name": "Eqi",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Thompson",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Csbank",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Petroliance",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Fischbein",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Safemark",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "United",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Vectorply",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Education",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Gaiatech",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
+    },
+    {
+      "name": "Crom",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.msouth.com/Portfolio"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:14:46.380115"
+  "portfolioLastResearched": "2026-04-21T18:54:29.753997"
 }

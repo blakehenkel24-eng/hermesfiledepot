@@ -96,7 +96,13 @@
       "industry": "Software",
       "status": "active",
       "source": "https://en.wikipedia.org/wiki/Heritage_Home_Group"
+    },
+    {
+      "name": "The Heritage Group'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/theheritagegroup/__SW84tnS4r3rQELbpaDpo1ZRiitFJsfiDoTUue4wk7nU"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:10:41.918126"
+  "portfolioLastResearched": "2026-04-21T18:49:19.890952"
 }

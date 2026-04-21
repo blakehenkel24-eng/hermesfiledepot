@@ -109,7 +109,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/investor/11194-12"
+    },
+    {
+      "name": "US Renal Care",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.frazierhealthcare.com/portfolio/"
+    },
+    {
+      "name": "Sudo Biosciences",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:08:41.222956"
+  "portfolioLastResearched": "2026-04-21T18:46:54.246721"
 }

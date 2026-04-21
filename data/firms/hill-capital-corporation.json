@@ -95,7 +95,13 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/investor/53876-35"
+    },
+    {
+      "name": "GoRoutSquare",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.hillcapitalcorp.com/hill-capital-portfolio"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:11:08.981651"
+  "portfolioLastResearched": "2026-04-21T18:49:47.571972"
 }

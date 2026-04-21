@@ -108,7 +108,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/investor/10049-14"
+    },
+    {
+      "name": "504x472 Cleanwater1 Website",
+      "industry": "Financial Services",
+      "status": "active",
+      "source": "https://www.bairdcapital.com/portfolio/2022/june/cleanwater1/"
+    },
+    {
+      "name": "PCA",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.bairdcapital.com/news/2025/08/baird-capital-exits-portfolio-company-pca/"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:05:49.590560"
+  "portfolioLastResearched": "2026-04-21T18:43:31.349200"
 }

@@ -99,7 +99,49 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/investor/10273-69"
+    },
+    {
+      "name": "Chartwell Financial Advisory",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "ClearWater Solutions",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "BarkleyOKRP",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Renovare Environmental",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/435234-70"
+    },
+    {
+      "name": "Evofem Biosciences",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/435234-70"
+    },
+    {
+      "name": "Baily International Foods",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/18844-57F"
+    },
+    {
+      "name": "Citizen Inside",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/18844-57F"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:12:19.733667"
+  "portfolioLastResearched": "2026-04-21T18:51:03.268868"
 }

@@ -80,7 +80,13 @@
       "industry": "Unknown",
       "status": "active",
       "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Advania",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:11:32.025290"
+  "portfolioLastResearched": "2026-04-21T18:50:14.301729"
 }

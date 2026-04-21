@@ -120,7 +120,31 @@
       "industry": "Unknown",
       "status": "active",
       "source": "https://pitchbook.com/profiles/fund/11047-15F"
+    },
+    {
+      "name": "EDB",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Weave",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Galvanize",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Pax8",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:07:16.025256"
+  "portfolioLastResearched": "2026-04-21T18:45:15.005334"
 }

@@ -104,7 +104,19 @@
       "industry": "Unknown",
       "status": "active",
       "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Navacor",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Things Remembered",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T18:14:35.415959"
+  "portfolioLastResearched": "2026-04-21T18:54:19.886157"
 }
