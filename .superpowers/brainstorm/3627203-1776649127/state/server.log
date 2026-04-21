@@ -1,0 +1,4 @@
+{"type":"server-started","port":57912,"host":"0.0.0.0","url_host":"76.13.122.30","url":"http://76.13.122.30:57912","screen_dir":"/root/pe-tool/.superpowers/brainstorm/3627203-1776649127/content","state_dir":"/root/pe-tool/.superpowers/brainstorm/3627203-1776649127/state"}
+{"type":"screen-added","file":"/root/pe-tool/.superpowers/brainstorm/3627203-1776649127/content/aesthetic-direction.html"}
+{"type":"screen-added","file":"/root/pe-tool/.superpowers/brainstorm/3627203-1776649127/content/waiting.html"}
+{"type":"server-stopped","reason":"idle timeout"}

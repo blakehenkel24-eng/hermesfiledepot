@@ -1,0 +1,77 @@
+{
+  "slug": "kainos-capital",
+  "name": "Kainos Capital",
+  "description": "Kainos Capital is a Dallas-based private equity firm specializing in investments in the food, consumer products, and pet care industries. The firm partners with management teams to build leading companies through organic growth initiatives, operational improvements, and strategic acquisitions. Kainos leverages deep domain expertise and extensive industry relationships to identify attractive investment opportunities in the consumer products space.",
+  "hq": {
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "website": "https://www.kainoscapital.com",
+  "aum": "$1.0B+",
+  "fundCount": 3,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Add-on Acquisition"
+  ],
+  "focusAreas": [
+    "Food & Beverage",
+    "Consumer Products",
+    "Pet Care",
+    "Health & Wellness"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "John R. Leech",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Andrew S. Rosen",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Sarah Palisi Chapin",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Evan O. King",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Darling Ingredients",
+      "industry": "Food Ingredients",
+      "status": "exited"
+    },
+    {
+      "name": "Bernard Food Industries",
+      "industry": "Specialty Food Products",
+      "status": "active"
+    },
+    {
+      "name": "TreeHouse Foods",
+      "industry": "Private Label Foods",
+      "status": "exited"
+    },
+    {
+      "name": "Ziegenfelder Company",
+      "industry": "Frozen Novelties",
+      "status": "active"
+    },
+    {
+      "name": "Stryker Brands",
+      "industry": "Consumer Products",
+      "status": "active"
+    }
+  ]
+}

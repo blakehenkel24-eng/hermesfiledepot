@@ -1,0 +1,51 @@
+{
+  "slug": "navigation-capital-partners",
+  "name": "Navigation Capital Partners",
+  "description": "Navigation Capital Partners is an Atlanta-based private equity firm that makes control investments in middle-market companies across the business services, financial services, and technology sectors. The firm partners with experienced management teams to drive operational improvement, strategic growth, and long-term value creation.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.navigationcapital.com",
+  "aum": "$500M+",
+  "fundCount": 3,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Financial Services",
+    "Technology",
+    "Healthcare"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Stephen N. O'Day",
+      "title": "Managing Partner",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Paul S. McConnaughey",
+      "title": "Partner",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Piedmont Healthcare IT",
+      "industry": "Healthcare Technology",
+      "status": "active"
+    },
+    {
+      "name": "Southpoint Financial Services",
+      "industry": "Financial Services",
+      "status": "exited"
+    }
+  ]
+}

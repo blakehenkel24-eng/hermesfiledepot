@@ -1,0 +1,50 @@
+{
+  "slug": "msouth-equity-partners",
+  "name": "MSouth Equity Partners",
+  "description": "MSouth Equity Partners is an Atlanta-based private equity firm focused on lower middle-market buyout investments, primarily targeting companies in the Southeast United States. The firm partners with management teams of businesses generating $10 million to $50 million in EBITDA, building value through operational improvements, organic growth, and strategic add-on acquisitions.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.msouth.com",
+  "aum": "$1.5B+",
+  "fundCount": 5,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Healthcare Services",
+    "Industrial Services",
+    "Niche Manufacturing"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Gary Long",
+      "title": "Managing Partner",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Reynolds Thompson",
+      "title": "Managing Partner",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Patriot Rail",
+      "industry": "Transportation & Logistics",
+      "status": "active"
+    },
+    {
+      "name": "Security Fire Protection",
+      "industry": "Fire Protection Services",
+      "status": "active"
+    }
+  ]
+}

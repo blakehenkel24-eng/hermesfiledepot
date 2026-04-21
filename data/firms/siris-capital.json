@@ -1,0 +1,82 @@
+{
+  "slug": "siris-capital",
+  "name": "Siris Capital Group",
+  "description": "Siris Capital Group is a leading private equity firm focused on making investments in technology, media, and telecommunications companies. The firm specializes in complex corporate divestitures and public-to-private transactions, partnering with management teams to drive operational improvement and strategic growth. Siris takes a hands-on, value-oriented approach with deep sector expertise in technology and telecom.",
+  "hq": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "website": "https://www.siriscapital.com",
+  "aum": "$6B+",
+  "fundCount": 5,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Corporate Carve-outs",
+    "Public-to-Private"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Telecommunications",
+    "Media",
+    "Data & Analytics"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Frank J. Baker",
+      "title": "Co-Founder & Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Peter B.  Bijur",
+      "title": "Co-Founder & Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Jeffrey D. Hendricks",
+      "title": "Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "David M. Glickman",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Daniel E. Molloy",
+      "title": "Partner",
+      "office": "New York, NY"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Juniper Networks (strategic investment interest)",
+      "industry": "Networking Technology",
+      "status": "active"
+    },
+    {
+      "name": "Stratacom",
+      "industry": "Telecommunications",
+      "status": "exited"
+    },
+    {
+      "name": "Polycom",
+      "industry": "Unified Communications",
+      "status": "exited"
+    },
+    {
+      "name": "ADT Commercial (Everon Technologies)",
+      "industry": "Security Technology",
+      "status": "active"
+    },
+    {
+      "name": "Parallel Wireless",
+      "industry": "Telecommunications Equipment",
+      "status": "active"
+    }
+  ]
+}

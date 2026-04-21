@@ -1,0 +1,103 @@
+{
+  "slug": "madison-dearborn-partners",
+  "name": "Madison Dearborn Partners",
+  "description": "Madison Dearborn Partners is a leading Chicago-based private equity firm founded in 1992, investing across a broad range of industries including basic industries, communications, consumer, financial services, healthcare, and technology. The firm is known for its deep sector expertise and long-term partnership approach with management teams to drive operational improvements and strategic growth.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.madisondearborn.com",
+  "aum": "$25B+",
+  "fundCount": 8,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Basic Industries",
+    "Communications",
+    "Consumer",
+    "Financial Services",
+    "Healthcare",
+    "Technology"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Paul J. Finnegan",
+      "title": "Co-Founder & Co-Chairman",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "John A. Canning Jr.",
+      "title": "Co-Founder & Co-Chairman",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Christopher J. Ragland",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Thomas J. Broyhill",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Christopher G. Trichelis",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Zia Y. Uddin",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Culligan",
+      "industry": "Consumer Water Treatment",
+      "status": "active"
+    },
+    {
+      "name": "Getty Images",
+      "industry": "Media",
+      "status": "active"
+    },
+    {
+      "name": "Liquid Environmental Solutions",
+      "industry": "Environmental Services",
+      "status": "active"
+    },
+    {
+      "name": "Wm. Bolthouse Farms",
+      "industry": "Consumer Products",
+      "status": "active"
+    },
+    {
+      "name": "Univision",
+      "industry": "Media",
+      "status": "exited"
+    },
+    {
+      "name": "CDW",
+      "industry": "Technology Distribution",
+      "status": "exited"
+    },
+    {
+      "name": "Asurion",
+      "industry": "Insurance Services",
+      "status": "exited"
+    },
+    {
+      "name": "Ikaria",
+      "industry": "Healthcare",
+      "status": "exited"
+    }
+  ]
+}

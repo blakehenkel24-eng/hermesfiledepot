@@ -1,0 +1,58 @@
+{
+  "slug": "norwest-equity-partners",
+  "name": "Norwest Equity Partners",
+  "description": "Norwest Equity Partners (NEP) is a leading middle-market private equity firm managing over $1.5 billion in capital. NEP invests in companies across a wide range of industries and has a nearly 60-year track record of building long-term value.",
+  "hq": {
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "website": "https://www.norwestequity.com",
+  "aum": "$1.5B+",
+  "fundCount": 13,
+  "tier": 3,
+  "dateAdded": "2026-02-15",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Minority Investments"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Consumer",
+    "Healthcare",
+    "Industrial",
+    "Technology"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Timothy J. DeVries",
+      "title": "Managing Partner",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "John D. Gherty",
+      "title": "Partner",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "Peter J. H_ill",
+      "title": "Partner",
+      "office": "Minneapolis, MN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Shutterfly",
+      "industry": "Consumer Technology",
+      "status": "exited"
+    },
+    {
+      "name": "UNFI",
+      "industry": "Food Distribution",
+      "status": "exited"
+    }
+  ]
+}

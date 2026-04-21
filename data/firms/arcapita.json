@@ -1,0 +1,66 @@
+{
+  "slug": "arcapita",
+  "name": "Arcapita",
+  "description": "Arcapita is a global alternative investment firm headquartered in Bahrain with its US operations based in Atlanta, Georgia. The firm specializes in Sharia-compliant private equity, real estate, and venture capital investments across multiple geographies and sectors. Since its founding in 1997, Arcapita has completed over 90 investments across the US, Europe, Middle East, and Asia.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.arcapita.com",
+  "aum": "$3B+",
+  "fundCount": 6,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Real Estate",
+    "Venture Capital"
+  ],
+  "focusAreas": [
+    "Healthcare",
+    "Technology",
+    "Industrials",
+    "Consumer",
+    "Real Estate"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe",
+    "Middle East",
+    "Asia"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Atif A. Abdulmalik",
+      "title": "CEO",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Tariq Hussain",
+      "title": "Chief Investment Officer",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Aabed Al-Zeid",
+      "title": "Managing Director",
+      "office": "Manama, Bahrain"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Church's Chicken",
+      "industry": "Restaurant",
+      "status": "exited"
+    },
+    {
+      "name": "Varel International Energy Services",
+      "industry": "Energy Services",
+      "status": "exited"
+    },
+    {
+      "name": "National OnDemand",
+      "industry": "Telecommunications Services",
+      "status": "active"
+    }
+  ]
+}

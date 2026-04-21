@@ -1,0 +1,138 @@
+{
+  "slug": "l-catterton",
+  "name": "L Catterton",
+  "description": "L Catterton is the largest consumer-focused private equity firm in the world, with approximately $35 billion of equity capital across its fund strategies spanning buyout, growth, and Latin America. The firm combines deep consumer expertise with the unparalleled strategic resources of its partners LVMH and Groupe Arnault to identify, invest in, and build iconic consumer brands across food & beverage, beauty & personal care, fitness & wellness, pet, and consumer health.",
+  "hq": {
+    "city": "Greenwich",
+    "state": "CT"
+  },
+  "website": "https://www.lcatterton.com",
+  "aum": "$35B+",
+  "fundCount": 10,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Venture Growth"
+  ],
+  "focusAreas": [
+    "Consumer Products & Services",
+    "Food & Beverage",
+    "Beauty & Personal Care",
+    "Fitness & Wellness",
+    "Pet Care",
+    "Consumer Health",
+    "Retail & E-Commerce"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe",
+    "Latin America",
+    "Asia"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Michael F. Chu",
+      "title": "Global Co-CEO & Managing Partner",
+      "office": "Greenwich, CT"
+    },
+    {
+      "name": "Scott A. Dahnke",
+      "title": "Global Co-CEO & Managing Partner",
+      "office": "Greenwich, CT"
+    },
+    {
+      "name": "Frank J. Fosdick",
+      "title": "Partner",
+      "office": "Greenwich, CT"
+    },
+    {
+      "name": "Jon Owsley",
+      "title": "Partner",
+      "office": "Greenwich, CT"
+    },
+    {
+      "name": "Eli Benson",
+      "title": "Partner",
+      "office": "Greenwich, CT"
+    },
+    {
+      "name": "Heather Hopfenspirger",
+      "title": "Partner",
+      "office": "Greenwich, CT"
+    },
+    {
+      "name": "Nik Thukral",
+      "title": "Managing Partner",
+      "office": "Greenwich, CT"
+    },
+    {
+      "name": "Michael Needham",
+      "title": "Partner",
+      "office": "Greenwich, CT"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "SweetLeaf",
+      "industry": "Food & Beverage",
+      "status": "active"
+    },
+    {
+      "name": "Happy Family Organics",
+      "industry": "Baby Food",
+      "status": "active"
+    },
+    {
+      "name": "Flywheel Sports",
+      "industry": "Fitness",
+      "status": "active"
+    },
+    {
+      "name": "PIB (Performance Inspired Brands)",
+      "industry": "Wellness",
+      "status": "active"
+    },
+    {
+      "name": "Sunday Riley",
+      "industry": "Beauty & Skincare",
+      "status": "active"
+    },
+    {
+      "name": "Boll & Branch",
+      "industry": "Home Goods",
+      "status": "active"
+    },
+    {
+      "name": "Bravo Sports",
+      "industry": "Consumer Products",
+      "status": "active"
+    },
+    {
+      "name": "Lily's Sweets",
+      "industry": "Food & Beverage",
+      "status": "active"
+    },
+    {
+      "name": "Tula Skincare",
+      "industry": "Beauty & Skincare",
+      "status": "active"
+    },
+    {
+      "name": "Heartland RV",
+      "industry": "Recreation Vehicles",
+      "status": "exited"
+    },
+    {
+      "name": "Wellness Pet Company",
+      "industry": "Pet Care",
+      "status": "exited"
+    },
+    {
+      "name": "Boulder Brands",
+      "industry": "Food & Beverage",
+      "status": "exited"
+    }
+  ]
+}

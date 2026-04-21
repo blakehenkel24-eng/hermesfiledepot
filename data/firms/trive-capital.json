@@ -1,0 +1,72 @@
+{
+  "slug": "trive-capital",
+  "name": "Trive Capital",
+  "description": "Trive Capital is a Dallas-based private equity firm focused on investing in technology, industrial, and business services companies. The firm targets middle-market companies undergoing complex operational or strategic transitions, partnering with management teams to drive transformative growth and operational improvements. Trive takes a hands-on approach with deep sector expertise in technology-enabled services and specialty industrials.",
+  "hq": {
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "website": "https://www.trivecapital.com",
+  "aum": "$2.5B+",
+  "fundCount": 4,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Carve-out",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Industrial Services",
+    "Business Services",
+    "Aerospace & Defense"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Connor Burns",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Chris Hulse",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Blake Thomson",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Adam O'Neil",
+      "title": "Principal",
+      "office": "Dallas, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Pomeroy",
+      "industry": "IT Services",
+      "status": "active"
+    },
+    {
+      "name": "Onyx EMS",
+      "industry": "Electronics Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "Qualitest",
+      "industry": "Software Testing & Quality Assurance",
+      "status": "active"
+    },
+    {
+      "name": "3Phoenix",
+      "industry": "Technology Services",
+      "status": "exited"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "francisco-partners",
+  "name": "Francisco Partners",
+  "description": "Francisco Partners is a leading technology-focused private equity firm that has been investing in technology and technology-enabled businesses since 1999. The firm targets investments in public companies, divisions of public companies, and private companies, and is one of the most active technology investors globally with deep operational and strategic expertise.",
+  "hq": {
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "website": "https://www.franciscopartners.com",
+  "aum": "$45B+",
+  "fundCount": 7,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Divestitures",
+    "Public-to-Private",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Software",
+    "Semiconductors",
+    "Hardware",
+    "Technology-enabled Services"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "David C. Stanton",
+      "title": "Co-Founder & Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Benjamin C. Ball",
+      "title": "Co-Founder & Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Dipanjan 'DJ' Deb",
+      "title": "Co-Founder & Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Shawn B. Garg",
+      "title": "Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Evan Daar",
+      "title": "Partner",
+      "office": "San Francisco, CA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Verifone",
+      "industry": "Payments Technology",
+      "status": "exited"
+    },
+    {
+      "name": "Dell Software (Quest)",
+      "industry": "Enterprise Software",
+      "status": "exited"
+    },
+    {
+      "name": "GoodRx",
+      "industry": "Healthcare Technology",
+      "status": "exited"
+    },
+    {
+      "name": "Roper Technologies (stake)",
+      "industry": "Industrial Technology",
+      "status": "active"
+    },
+    {
+      "name": "Barracuda Networks",
+      "industry": "Cybersecurity",
+      "status": "active"
+    },
+    {
+      "name": "LeanTaaS",
+      "industry": "Healthcare Software",
+      "status": "active"
+    }
+  ]
+}

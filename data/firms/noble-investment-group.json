@@ -1,0 +1,57 @@
+{
+  "slug": "noble-investment-group",
+  "name": "Noble Investment Group",
+  "description": "Noble Investment Group is an Atlanta-based private equity and investment firm specializing in the hospitality and lodging sector. The firm acquires, develops, and manages premium-branded select-service and extended-stay hotels across the United States, leveraging deep industry expertise to drive asset-level performance and portfolio growth.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.nobleinvestment.com",
+  "aum": "$3B+",
+  "fundCount": 4,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Real Estate",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Hospitality",
+    "Lodging",
+    "Real Estate",
+    "Travel & Leisure"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Mitesh Shah",
+      "title": "CEO & Managing Principal",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Bharat Patel",
+      "title": "Managing Director",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Noble Hotels Portfolio",
+      "industry": "Hospitality/Lodging",
+      "status": "active"
+    },
+    {
+      "name": "InterContinental Hotel Portfolio",
+      "industry": "Hospitality/Lodging",
+      "status": "active"
+    },
+    {
+      "name": "Marriott Select Service Portfolio",
+      "industry": "Hospitality/Lodging",
+      "status": "active"
+    }
+  ]
+}

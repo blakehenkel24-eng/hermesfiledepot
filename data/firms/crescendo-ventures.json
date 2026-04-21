@@ -1,0 +1,57 @@
+{
+  "slug": "crescendo-ventures",
+  "name": "Crescendo Ventures",
+  "description": "Crescendo Ventures is a Minneapolis-based venture capital and growth equity firm focused on early-stage and growth-stage technology companies. Since its founding, the firm has invested across communications, software, and technology-enabled services, partnering with exceptional founders to build market-leading companies.",
+  "hq": {
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "website": "https://www.crescendoventures.com",
+  "aum": "$400M+",
+  "fundCount": 3,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Venture Capital",
+    "Growth Equity",
+    "Early-Stage"
+  ],
+  "focusAreas": [
+    "Enterprise Software",
+    "Communications Technology",
+    "Technology-Enabled Services",
+    "SaaS"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "David Spreng",
+      "title": "Founder & Managing General Partner",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "Brad Harrison",
+      "title": "General Partner",
+      "office": "Minneapolis, MN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Sonus Networks",
+      "industry": "Communications Technology",
+      "status": "exited"
+    },
+    {
+      "name": "Spanlink Communications",
+      "industry": "Enterprise Communications",
+      "status": "exited"
+    },
+    {
+      "name": "Vocal Laboratories",
+      "industry": "Technology Services",
+      "status": "exited"
+    }
+  ]
+}

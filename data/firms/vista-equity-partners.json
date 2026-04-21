@@ -1,0 +1,98 @@
+{
+  "slug": "vista-equity-partners",
+  "name": "Vista Equity Partners",
+  "description": "Vista Equity Partners is a global investment firm focused exclusively on enterprise software, data, and technology-enabled businesses. The firm is the most active software investor in the world with over $100 billion in assets under management. Vista applies a disciplined, repeatable approach to value creation through its extensive operational playbook and deep domain expertise in enterprise software.",
+  "hq": {
+    "city": "Austin",
+    "state": "TX"
+  },
+  "website": "https://www.vistaequitypartners.com",
+  "aum": "$100B+",
+  "fundCount": 8,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Permanent Capital",
+    "Credit"
+  ],
+  "focusAreas": [
+    "Enterprise Software",
+    "Data & Analytics",
+    "Technology-enabled Services"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Robert F. Smith",
+      "title": "Founder, Chairman & CEO",
+      "office": "Austin, TX"
+    },
+    {
+      "name": "David Breach",
+      "title": "President & COO",
+      "office": "Austin, TX"
+    },
+    {
+      "name": "Monti Saroya",
+      "title": "Senior Managing Director",
+      "office": "Austin, TX"
+    },
+    {
+      "name": "Alan Cucksey",
+      "title": "Senior Managing Director",
+      "office": "Austin, TX"
+    },
+    {
+      "name": "Rodger L. Smith",
+      "title": "Senior Managing Director",
+      "office": "Austin, TX"
+    },
+    {
+      "name": "Rene Yang",
+      "title": "Managing Director",
+      "office": "New York, NY"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Citrix Systems",
+      "industry": "Enterprise Software",
+      "status": "active"
+    },
+    {
+      "name": "Cvent",
+      "industry": "Event Management Software",
+      "status": "active"
+    },
+    {
+      "name": "Jamf",
+      "industry": "Apple Device Management",
+      "status": "exited"
+    },
+    {
+      "name": "Marketo",
+      "industry": "Marketing Automation",
+      "status": "exited"
+    },
+    {
+      "name": "Apptio",
+      "industry": "Technology Business Management",
+      "status": "exited"
+    },
+    {
+      "name": "Ping Identity",
+      "industry": "Cybersecurity",
+      "status": "active"
+    },
+    {
+      "name": "Epicor Software",
+      "industry": "ERP Software",
+      "status": "active"
+    }
+  ]
+}

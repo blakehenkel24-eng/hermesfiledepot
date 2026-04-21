@@ -1,0 +1,62 @@
+{
+  "slug": "longwater-opportunities",
+  "name": "Longwater Opportunities",
+  "description": "Longwater Opportunities is a Dallas-based private equity firm focused on investing in middle-market companies across business services, industrial services, and healthcare services sectors. The firm targets businesses with strong management teams, defensible market positions, and opportunities for both organic and acquisitive growth. Longwater takes a collaborative approach to value creation, leveraging deep operational expertise and industry networks to support portfolio companies.",
+  "hq": {
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "website": "https://www.longwateropportunities.com",
+  "aum": "$600M+",
+  "fundCount": 3,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Industrial Services",
+    "Healthcare Services",
+    "Specialty Distribution"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Michael H. Smith",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "John H. Mundy",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "J. Brooks O'Neil",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "United States Infrastructure Corporation",
+      "industry": "Infrastructure Services",
+      "status": "active"
+    },
+    {
+      "name": "Powell Electrical Systems",
+      "industry": "Industrial Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "Meadowbrook Insurance",
+      "industry": "Insurance Services",
+      "status": "exited"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "platinum-equity",
+  "name": "Platinum Equity",
+  "description": "Platinum Equity is a global M&A firm specializing in mergers, acquisitions, and operations of companies across diverse industries. Founded by Tom Gores in 1995, the firm has completed over 450 acquisitions and is distinguished by its deep operational capabilities and in-house team of operations and corporate development executives. Platinum applies its M&A&O philosophy to acquire and build value through operational transformation.",
+  "hq": {
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "website": "https://www.platinumequity.com",
+  "aum": "$43B+",
+  "fundCount": 5,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Corporate Carve-outs",
+    "Divestitures",
+    "Add-on Acquisitions"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Industrials",
+    "Business Services",
+    "Consumer Products",
+    "Healthcare",
+    "Media & Entertainment",
+    "Logistics"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Tom Gores",
+      "title": "Founder, Chairman & CEO",
+      "office": "Los Angeles, CA"
+    },
+    {
+      "name": "Louis Samson",
+      "title": "Partner",
+      "office": "Los Angeles, CA"
+    },
+    {
+      "name": "Jacob Kotzubei",
+      "title": "Partner",
+      "office": "Los Angeles, CA"
+    },
+    {
+      "name": "Bobby Barth",
+      "title": "Partner",
+      "office": "Los Angeles, CA"
+    },
+    {
+      "name": "Garnie Nyberg",
+      "title": "Partner",
+      "office": "Los Angeles, CA"
+    },
+    {
+      "name": "Phil Norment",
+      "title": "Partner",
+      "office": "Los Angeles, CA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Cox Enterprises (stake)",
+      "industry": "Media & Automotive",
+      "status": "active"
+    },
+    {
+      "name": "EOS Utility Services",
+      "industry": "Utility Services",
+      "status": "active"
+    },
+    {
+      "name": "BHC Interim",
+      "industry": "Staffing Services",
+      "status": "active"
+    },
+    {
+      "name": "RCM Technologies",
+      "industry": "IT & Engineering Services",
+      "status": "active"
+    },
+    {
+      "name": "Alcoa Wheel Products (Arconic)",
+      "industry": "Industrial Manufacturing",
+      "status": "exited"
+    },
+    {
+      "name": "TNT Fireworks",
+      "industry": "Consumer Products",
+      "status": "exited"
+    }
+  ]
+}

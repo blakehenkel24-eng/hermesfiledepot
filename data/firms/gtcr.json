@@ -1,0 +1,117 @@
+{
+  "slug": "gtcr",
+  "name": "GTCR",
+  "description": "GTCR is a leading Chicago-based private equity firm founded in 1980, recognized for its \"Leaders Strategy\" approach of partnering with top management executives to identify and build transformative companies. The firm focuses on investments in technology, healthcare, financial services, and consumer sectors, with a long track record of successful buyouts and growth investments across the middle and upper middle market.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.gtcr.com",
+  "aum": "$30B+",
+  "fundCount": 14,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Healthcare",
+    "Financial Services",
+    "Consumer Products & Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Collin E. Roche",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Dean A. Mihas",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Sean P. Cunningham",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Craig A. Bondy",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "David D. Canan",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Michael J. Kollender",
+      "title": "Managing Director",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Worldpay",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "Optiv Security",
+      "industry": "Cybersecurity",
+      "status": "active"
+    },
+    {
+      "name": "Celero Commerce",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "Premier Research",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "RevSpring",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "AltaClaro",
+      "industry": "Professional Services",
+      "status": "active"
+    },
+    {
+      "name": "Dynamic Risk",
+      "industry": "Energy Services",
+      "status": "active"
+    },
+    {
+      "name": "TransUnion",
+      "industry": "Information Services",
+      "status": "exited"
+    },
+    {
+      "name": "Verisk Analytics",
+      "industry": "Data Analytics",
+      "status": "exited"
+    },
+    {
+      "name": "Paya",
+      "industry": "Payments",
+      "status": "exited"
+    },
+    {
+      "name": "Cision",
+      "industry": "Media Technology",
+      "status": "exited"
+    }
+  ]
+}

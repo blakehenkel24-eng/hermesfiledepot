@@ -1,0 +1,116 @@
+{
+  "slug": "kps-capital-partners",
+  "name": "KPS Capital Partners",
+  "description": "KPS Capital Partners is a New York-based private equity firm recognized as a global leader in investing in and transforming manufacturing and industrial companies, particularly through operational turnarounds and complex situations. The firm has a distinctive approach focused on creating value by improving operations, investing in growth, and building world-class industrial platforms, having raised over $21 billion across its fund series.",
+  "hq": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "website": "https://www.kpscapital.com",
+  "aum": "$21B+",
+  "fundCount": 7,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Turnaround",
+    "Corporate Carve-Out",
+    "Restructuring"
+  ],
+  "focusAreas": [
+    "Industrials",
+    "Manufacturing",
+    "Metals",
+    "Automotive",
+    "Building Products",
+    "Packaging"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Michael J. Psaros",
+      "title": "Co-Founder & Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "David B. (Dave) Shapiro",
+      "title": "Co-Founder & Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Jay R. Bernstein",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Ryan L. Boyce",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Eugenia (Jenny) S. Victor",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Alexander S. (Sasha) Rusanov",
+      "title": "Partner",
+      "office": "New York, NY"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "CROWNNA",
+      "industry": "Building Products",
+      "status": "active"
+    },
+    {
+      "name": "Gestamp",
+      "industry": "Automotive Components",
+      "status": "active"
+    },
+    {
+      "name": "Stanley Black & Decker Engineered Fastening",
+      "industry": "Industrial Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "AM General",
+      "industry": "Defense & Automotive",
+      "status": "active"
+    },
+    {
+      "name": "Brock Group",
+      "industry": "Industrial Services",
+      "status": "active"
+    },
+    {
+      "name": "Waupaca Foundry",
+      "industry": "Metals Casting",
+      "status": "active"
+    },
+    {
+      "name": "Velocity Elevator Services",
+      "industry": "Industrial Services",
+      "status": "active"
+    },
+    {
+      "name": "International Rectifier",
+      "industry": "Semiconductors",
+      "status": "exited"
+    },
+    {
+      "name": "Blue Bird Corporation",
+      "industry": "Transportation Manufacturing",
+      "status": "exited"
+    },
+    {
+      "name": "Stanley Electric",
+      "industry": "Lighting Manufacturing",
+      "status": "exited"
+    }
+  ]
+}

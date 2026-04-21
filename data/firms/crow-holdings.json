@@ -1,0 +1,79 @@
+{
+  "slug": "crow-holdings",
+  "name": "Crow Holdings",
+  "description": "Crow Holdings is a Dallas-based privately owned real estate and investment management firm with roots tracing back to the Trammell Crow Company, one of the largest real estate developers in U.S. history. The firm manages a diversified platform spanning real estate private equity, development, and investment management across residential, industrial, office, and specialty sectors. Crow Holdings combines deep operational expertise with institutional capital to create value across the real estate cycle.",
+  "hq": {
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "website": "https://www.crowholdings.com",
+  "aum": "$35B+",
+  "fundCount": 12,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Real Estate Private Equity",
+    "Development",
+    "Value-Added",
+    "Core-Plus"
+  ],
+  "focusAreas": [
+    "Multi-Family Residential",
+    "Industrial & Logistics",
+    "Office",
+    "Hospitality",
+    "Mixed-Use Development"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Michael Levy",
+      "title": "Chief Executive Officer",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Trammell S. Crow",
+      "title": "Chairman",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Bob Ruback",
+      "title": "Chief Investment Officer",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Kathy Dore",
+      "title": "President, Crow Holdings Capital",
+      "office": "Dallas, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Trammell Crow Residential",
+      "industry": "Multi-Family Development",
+      "status": "active"
+    },
+    {
+      "name": "Crow Holdings Industrial",
+      "industry": "Industrial Development",
+      "status": "active"
+    },
+    {
+      "name": "Crow Holdings Capital Partners",
+      "industry": "Real Estate Investment Management",
+      "status": "active"
+    },
+    {
+      "name": "High Street Residential",
+      "industry": "Mixed-Use Development",
+      "status": "active"
+    },
+    {
+      "name": "Aztec Group",
+      "industry": "Industrial Logistics",
+      "status": "exited"
+    }
+  ]
+}

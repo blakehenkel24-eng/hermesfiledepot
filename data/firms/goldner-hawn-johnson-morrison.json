@@ -1,0 +1,64 @@
+{
+  "slug": "goldner-hawn-johnson-morrison",
+  "name": "Goldner Hawn Johnson & Morrison",
+  "description": "Goldner Hawn Johnson & Morrison (GHJ&M) is a Minneapolis-based private equity firm founded in 1989, making it one of the longest-tenured lower middle-market PE firms in the Upper Midwest. The firm partners with management teams to execute buyouts, recapitalizations, and growth investments in well-positioned companies.",
+  "hq": {
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "website": "https://www.goldnerhawn.com",
+  "aum": "$800M+",
+  "fundCount": 7,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization",
+    "Growth Equity",
+    "Add-on Acquisitions"
+  ],
+  "focusAreas": [
+    "Manufacturing",
+    "Distribution",
+    "Business Services",
+    "Consumer Products",
+    "Healthcare Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Craig Gestrin",
+      "title": "Managing Partner",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "David Goldner",
+      "title": "Founding Partner",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "Steve Hawn",
+      "title": "Founding Partner",
+      "office": "Minneapolis, MN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Flagstone Foods",
+      "industry": "Food Manufacturing",
+      "status": "exited"
+    },
+    {
+      "name": "Hagemeyer North America",
+      "industry": "Industrial Distribution",
+      "status": "exited"
+    },
+    {
+      "name": "Compass Tools",
+      "industry": "Specialty Distribution",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "piedmont-capital",
+  "name": "Piedmont Capital",
+  "description": "Piedmont Capital is an Atlanta-based private investment firm focused on providing growth capital and buyout financing to middle-market companies across the Southeast United States. The firm targets investments in business services, healthcare, and niche industrial companies with strong management teams and defensible market positions.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.piedmontcap.com",
+  "aum": "$300M+",
+  "fundCount": 2,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Mezzanine"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Healthcare",
+    "Industrial Services",
+    "Niche Manufacturing"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "William H. Morrow",
+      "title": "Managing Partner",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Southeastern Building Services",
+      "industry": "Building Services",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "lone-star-funds",
+  "name": "Lone Star Funds",
+  "description": "Lone Star Funds is a prominent Dallas-based private equity firm specializing in distressed and special situation investments globally. Founded by John Grayken, the firm is one of the largest investors in distressed assets worldwide, targeting non-performing loan portfolios, distressed real estate, and underperforming financial institutions. Lone Star has raised over $85 billion in aggregate capital commitments since inception and has a disciplined, value-oriented approach to complex investment opportunities.",
+  "hq": {
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "website": "https://www.lonestarfunds.com",
+  "aum": "$85B+",
+  "fundCount": 15,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Distressed/Special Situations",
+    "Real Estate",
+    "Private Equity",
+    "Credit"
+  ],
+  "focusAreas": [
+    "Financial Services",
+    "Real Estate",
+    "Distressed Assets",
+    "Non-Performing Loans",
+    "Healthcare"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe",
+    "Japan",
+    "South Korea"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "John Grayken",
+      "title": "Founder & Chairman",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Brendan McMahon",
+      "title": "President",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Nick M. Pigott",
+      "title": "Managing Director",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Andre Martinez",
+      "title": "Managing Director",
+      "office": "London, UK"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "CalAtlantic Homes",
+      "industry": "Homebuilding",
+      "status": "exited"
+    },
+    {
+      "name": "Kolon Global",
+      "industry": "Conglomerate",
+      "status": "exited"
+    },
+    {
+      "name": "Bi-Lo Holdings",
+      "industry": "Grocery Retail",
+      "status": "exited"
+    },
+    {
+      "name": "HSH Nordbank (Coreo)",
+      "industry": "Real Estate",
+      "status": "exited"
+    },
+    {
+      "name": "Cerberus NPL Portfolio",
+      "industry": "Distressed Loans",
+      "status": "exited"
+    }
+  ]
+}

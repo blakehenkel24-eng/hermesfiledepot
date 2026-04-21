@@ -1,0 +1,71 @@
+{
+  "slug": "catalyst-investors",
+  "name": "Catalyst Investors",
+  "description": "Catalyst Investors is a growth equity and buyout firm investing in technology and tech-enabled services companies. The firm targets high-growth businesses in sectors including software, digital media, communications, and information services, partnering with founders and management teams to accelerate organic and acquisitive growth.",
+  "hq": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "website": "https://www.catalystinvestors.com",
+  "aum": "$1.0B+",
+  "fundCount": 5,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Growth Equity",
+    "Buyout"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Tech-Enabled Services",
+    "Communications",
+    "Digital Media"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Tyler B. Newton",
+      "title": "Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Bret A. Weinberg",
+      "title": "Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Michael T. Gill",
+      "title": "Partner",
+      "office": "New York, NY"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Lumin Digital",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "SellerCrowd",
+      "industry": "Digital Media",
+      "status": "active"
+    },
+    {
+      "name": "MLSGrid",
+      "industry": "Real Estate Technology",
+      "status": "active"
+    },
+    {
+      "name": "Intradiem",
+      "industry": "Workforce Optimization",
+      "status": "active"
+    },
+    {
+      "name": "Zenput",
+      "industry": "Software",
+      "status": "exited"
+    }
+  ]
+}

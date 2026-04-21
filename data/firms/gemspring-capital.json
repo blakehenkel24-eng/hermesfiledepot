@@ -1,0 +1,71 @@
+{
+  "slug": "gemspring-capital",
+  "name": "Gemspring Capital",
+  "description": "Gemspring Capital is a private equity firm focused on investments in technology-enabled business services, healthcare, and industrial technology companies. The firm targets companies with $5-25M EBITDA and partners with management teams to drive operational improvements and strategic growth initiatives.",
+  "hq": {
+    "city": "Westport",
+    "state": "CT"
+  },
+  "website": "https://www.gemspringcapital.com",
+  "aum": "$1.5B+",
+  "fundCount": 3,
+  "tier": 1,
+  "dateAdded": "2026-01-15",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Add-on Acquisitions"
+  ],
+  "focusAreas": [
+    "Technology-enabled Services",
+    "Healthcare",
+    "Industrial Technology"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Tom Reifsnyder",
+      "title": "Managing Partner",
+      "office": "Westport, CT"
+    },
+    {
+      "name": "Jason Muldoon",
+      "title": "Managing Partner",
+      "office": "Westport, CT"
+    },
+    {
+      "name": "Brian Bernstein",
+      "title": "Partner",
+      "office": "Westport, CT"
+    },
+    {
+      "name": "David Fife",
+      "title": "Partner",
+      "office": "Westport, CT"
+    },
+    {
+      "name": "Alex Sanel",
+      "title": "Principal",
+      "office": "Westport, CT"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "MSP Corps",
+      "industry": "IT Services",
+      "status": "active"
+    },
+    {
+      "name": "Danbury Health",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "ACS Services",
+      "industry": "Business Services",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "peachtree-hotel-group",
+  "name": "Peachtree Hotel Group",
+  "description": "Peachtree Hotel Group is an Atlanta-based hospitality investment and management firm that acquires, develops, and operates premium-branded hotels across the United States. The firm leverages a vertically integrated platform combining investment, development, and hotel management capabilities to maximize asset-level performance and investor returns.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.peachtreehotelgroup.com",
+  "aum": "$2B+",
+  "fundCount": 3,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Real Estate",
+    "Development"
+  ],
+  "focusAreas": [
+    "Hospitality",
+    "Lodging",
+    "Real Estate",
+    "Hotel Management"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Gregory A. Friedman",
+      "title": "Managing Partner & CEO",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Michael W. Scheiling",
+      "title": "Managing Partner & COO",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Hilton Portfolio",
+      "industry": "Hospitality/Lodging",
+      "status": "active"
+    },
+    {
+      "name": "Marriott Extended Stay Portfolio",
+      "industry": "Hospitality/Lodging",
+      "status": "active"
+    }
+  ]
+}

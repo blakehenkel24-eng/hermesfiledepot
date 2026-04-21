@@ -1,0 +1,94 @@
+{
+  "slug": "lindsay-goldberg",
+  "name": "Lindsay Goldberg",
+  "description": "Lindsay Goldberg is a New York-based private equity firm founded in 2001 by Alan Goldberg and Robert Lindsay, known for its relationship-driven investment approach partnering closely with family-owned and entrepreneurial businesses. The firm focuses on long-term value creation through deep operational collaboration and has raised over $17 billion of equity capital across multiple funds.",
+  "hq": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "website": "https://www.lindsaygoldberg.com",
+  "aum": "$17B+",
+  "fundCount": 7,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Industrials",
+    "Business Services",
+    "Healthcare",
+    "Technology Services",
+    "Consumer"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Alan S. Goldberg",
+      "title": "Co-Founder & Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Robert H. Lindsay",
+      "title": "Co-Founder & Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Graham R. Walmsley",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "David S. Hulme",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Edin Zulic",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Barrett R. Gilmer",
+      "title": "Partner",
+      "office": "New York, NY"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Atlantic Coast Investments",
+      "industry": "Industrials",
+      "status": "active"
+    },
+    {
+      "name": "Consolidated Precision Products",
+      "industry": "Aerospace Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "Toposens",
+      "industry": "Technology",
+      "status": "active"
+    },
+    {
+      "name": "CareCloud",
+      "industry": "Healthcare Technology",
+      "status": "active"
+    },
+    {
+      "name": "White Stallion Energy",
+      "industry": "Energy",
+      "status": "exited"
+    },
+    {
+      "name": "European Electric Motor Group",
+      "industry": "Industrials",
+      "status": "active"
+    }
+  ]
+}

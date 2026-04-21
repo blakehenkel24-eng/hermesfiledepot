@@ -1,0 +1,102 @@
+{
+  "slug": "frazier-healthcare-partners",
+  "name": "Frazier Healthcare Partners",
+  "description": "Frazier Healthcare Partners is a Seattle-based private equity and growth equity firm focused exclusively on the healthcare industry, with over 30 years of investing experience. The firm invests across healthcare services, pharmaceutical services, and medical technology, leveraging deep operational expertise and an extensive network of healthcare executives and advisors to drive value creation.",
+  "hq": {
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "website": "https://www.frazierhealthcare.com",
+  "aum": "$8B+",
+  "fundCount": 9,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Healthcare Services",
+    "Pharmaceutical Services",
+    "Medical Technology",
+    "Healthcare IT",
+    "Biopharma"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Dr. James A. (Jamie) Frazier",
+      "title": "Managing Partner",
+      "office": "Seattle, WA"
+    },
+    {
+      "name": "Nathan D. Every",
+      "title": "Managing Partner",
+      "office": "Seattle, WA"
+    },
+    {
+      "name": "Patrick (Pat) M. Herbeck",
+      "title": "General Partner",
+      "office": "Seattle, WA"
+    },
+    {
+      "name": "Robert (Bob) B. Sheedy",
+      "title": "General Partner",
+      "office": "Seattle, WA"
+    },
+    {
+      "name": "Dev K. Shrotriya",
+      "title": "Partner",
+      "office": "Seattle, WA"
+    },
+    {
+      "name": "Eric L. Smith",
+      "title": "Partner",
+      "office": "Seattle, WA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Summit Health",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "Alcami Corporation",
+      "industry": "Pharmaceutical Services",
+      "status": "active"
+    },
+    {
+      "name": "RxBenefits",
+      "industry": "Pharmacy Benefits",
+      "status": "active"
+    },
+    {
+      "name": "BioAgilytix",
+      "industry": "Bioanalytical Services",
+      "status": "active"
+    },
+    {
+      "name": "Express Scripts",
+      "industry": "Pharmacy Benefits",
+      "status": "exited"
+    },
+    {
+      "name": "Dentsply Sirona",
+      "industry": "Medical Devices",
+      "status": "exited"
+    },
+    {
+      "name": "Bausch + Lomb",
+      "industry": "Medical Devices",
+      "status": "exited"
+    },
+    {
+      "name": "Ventas",
+      "industry": "Healthcare REIT",
+      "status": "exited"
+    }
+  ]
+}

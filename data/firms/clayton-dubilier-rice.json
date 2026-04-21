@@ -1,0 +1,84 @@
+{
+  "slug": "clayton-dubilier-rice",
+  "name": "Clayton, Dubilier & Rice (CD&R)",
+  "description": "CD&R is one of the oldest and most respected private equity firms, known for its operationally-focused investment approach. The firm partners with management teams to build stronger, more profitable businesses through a combination of strategic, operational, and financial improvements.",
+  "hq": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "website": "https://www.cdr-inc.com",
+  "aum": "$40B+",
+  "fundCount": 12,
+  "tier": 1,
+  "dateAdded": "2026-01-15",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth",
+    "Corporate Carve-outs"
+  ],
+  "focusAreas": [
+    "Industrial",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Services"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Nathan K. Sleeper",
+      "title": "CEO & Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Donald J. Gogel",
+      "title": "Chairman",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Thomas W. Franz",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "David A. Novak",
+      "title": "Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Richard J. Vos",
+      "title": "Partner",
+      "office": "New York, NY"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Sysco",
+      "industry": "Food Distribution",
+      "status": "exited"
+    },
+    {
+      "name": "HD Supply",
+      "industry": "Industrial Distribution",
+      "status": "exited"
+    },
+    {
+      "name": "Solutia",
+      "industry": "Chemicals",
+      "status": "exited"
+    },
+    {
+      "name": "Covetrus",
+      "industry": "Animal Health",
+      "status": "active"
+    },
+    {
+      "name": "Cornerstone Building Brands",
+      "industry": "Building Products",
+      "status": "active"
+    }
+  ]
+}

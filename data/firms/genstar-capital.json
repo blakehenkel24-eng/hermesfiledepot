@@ -1,0 +1,87 @@
+{
+  "slug": "genstar-capital",
+  "name": "Genstar Capital",
+  "description": "Genstar Capital is a leading private equity firm that has been actively investing in high-quality companies for over 30 years. The firm targets investments in focused segments within the technology, healthcare, financial services, and industrials sectors, partnering with management teams to drive growth through organic initiatives, add-on acquisitions, and operational improvements.",
+  "hq": {
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "website": "https://www.gencap.com",
+  "aum": "$42B+",
+  "fundCount": 8,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Add-on Acquisitions"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Healthcare",
+    "Financial Services",
+    "Industrials"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Jean-Pierre L. Conte",
+      "title": "Chairman & Managing Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Ryan G. Clark",
+      "title": "Managing Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Rob Rutledge",
+      "title": "Managing Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Matt T. Holt",
+      "title": "Managing Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "David T. Wright",
+      "title": "Partner",
+      "office": "San Francisco, CA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Vertos Medical",
+      "industry": "Medical Devices",
+      "status": "active"
+    },
+    {
+      "name": "MeridianLink",
+      "industry": "Financial Technology",
+      "status": "exited"
+    },
+    {
+      "name": "PowerSchool",
+      "industry": "Education Technology",
+      "status": "exited"
+    },
+    {
+      "name": "AssuredPartners",
+      "industry": "Insurance Distribution",
+      "status": "exited"
+    },
+    {
+      "name": "Procare Solutions",
+      "industry": "Childcare Technology",
+      "status": "active"
+    },
+    {
+      "name": "Medline Industries (minority stake)",
+      "industry": "Healthcare Supplies",
+      "status": "active"
+    }
+  ]
+}

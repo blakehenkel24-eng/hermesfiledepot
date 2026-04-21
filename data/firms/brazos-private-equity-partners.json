@@ -1,0 +1,67 @@
+{
+  "slug": "brazos-private-equity-partners",
+  "name": "Brazos Private Equity Partners",
+  "description": "Brazos Private Equity Partners is a Dallas-based private equity firm focused on investing in middle-market companies across healthcare, consumer, industrial, and business services sectors. The firm partners with management teams to drive operational improvements, pursue strategic acquisitions, and build leading businesses within its target industries. Brazos takes a value-oriented approach, targeting companies with strong cash flow profiles and identifiable growth levers.",
+  "hq": {
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "website": "https://www.brazospe.com",
+  "aum": "$1.2B+",
+  "fundCount": 4,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization",
+    "Add-on Acquisition"
+  ],
+  "focusAreas": [
+    "Healthcare",
+    "Consumer Products & Services",
+    "Industrials",
+    "Business Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Jeffrey A. Fronterhouse",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Brant W. Bousquet",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Stephen H. Tatum",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "DRS Pediatrics",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "MI Windows and Doors",
+      "industry": "Building Products",
+      "status": "exited"
+    },
+    {
+      "name": "Lone Star Bakery",
+      "industry": "Consumer Products",
+      "status": "exited"
+    },
+    {
+      "name": "American Construction & Logistics",
+      "industry": "Industrial Services",
+      "status": "active"
+    }
+  ]
+}

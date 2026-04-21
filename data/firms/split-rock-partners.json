@@ -1,0 +1,62 @@
+{
+  "slug": "split-rock-partners",
+  "name": "Split Rock Partners",
+  "description": "Split Rock Partners is a Minneapolis-based venture capital and growth equity firm focused on early-stage and growth-stage investments in healthcare and technology companies. The firm was formed in 2002 by the former healthcare and technology investment teams of St. Paul Venture Capital and brings deep domain expertise to its target sectors.",
+  "hq": {
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "website": "https://www.splitrockpartners.com",
+  "aum": "$560M+",
+  "fundCount": 4,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Venture Capital",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Healthcare Technology",
+    "Medical Devices",
+    "Enterprise Software",
+    "Digital Health",
+    "Therapeutics"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel":[
+    {
+      "name": "Jim Hooper",
+      "title": "Managing Partner",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "Art Newman",
+      "title": "Managing Partner",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "Dave Stassen",
+      "title": "Partner",
+      "office": "Minneapolis, MN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "AtriCure",
+      "industry": "Medical Devices",
+      "status": "exited"
+    },
+    {
+      "name": "Torax Medical",
+      "industry": "Medical Devices",
+      "status": "exited"
+    },
+    {
+      "name": "OneOncology",
+      "industry": "Healthcare Services",
+      "status": "active"
+    }
+  ]
+}

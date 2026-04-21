@@ -1,0 +1,97 @@
+{
+  "slug": "hig-capital",
+  "name": "H.I.G. Capital",
+  "description": "H.I.G. Capital is a leading global alternative investment firm with over $60 billion of capital under management. The firm has a flexible investment approach spanning buyout, growth equity, real estate, credit, and infrastructure, targeting middle-market companies across a broad range of sectors. H.I.G. is known for its deep operational expertise and has invested in over 400 companies since inception.",
+  "hq": {
+    "city": "Miami",
+    "state": "FL"
+  },
+  "website": "https://www.higcapital.com",
+  "aum": "$60B+",
+  "fundCount": 15,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Credit",
+    "Real Estate",
+    "Infrastructure"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Healthcare",
+    "Industrials",
+    "Consumer",
+    "Business Services",
+    "Financial Services"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Anthony B. Tamer",
+      "title": "Co-Founder & CEO",
+      "office": "Miami, FL"
+    },
+    {
+      "name": "Sami W. Mnaymneh",
+      "title": "Co-Founder & Co-CEO",
+      "office": "Miami, FL"
+    },
+    {
+      "name": "Doug Berman",
+      "title": "Managing Director",
+      "office": "Miami, FL"
+    },
+    {
+      "name": "Kevin Anzzolin",
+      "title": "Managing Director",
+      "office": "Miami, FL"
+    },
+    {
+      "name": "John Phelan",
+      "title": "Managing Director",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Keval Patel",
+      "title": "Managing Director",
+      "office": "Miami, FL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Vertafore",
+      "industry": "Insurance Technology",
+      "status": "active"
+    },
+    {
+      "name": "Heartland Dental",
+      "industry": "Healthcare Services",
+      "status": "exited"
+    },
+    {
+      "name": "Tender Restaurant Group",
+      "industry": "Restaurant/Franchise",
+      "status": "active"
+    },
+    {
+      "name": "Ryko Enterprises",
+      "industry": "Industrial Services",
+      "status": "active"
+    },
+    {
+      "name": "LSC Communications",
+      "industry": "Printing & Media",
+      "status": "exited"
+    },
+    {
+      "name": "Polyconcept",
+      "industry": "Promotional Products",
+      "status": "exited"
+    }
+  ]
+}
