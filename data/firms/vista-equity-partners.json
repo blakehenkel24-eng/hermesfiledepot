@@ -60,11 +60,6 @@
   ],
   "portfolioCompanies": [
     {
-      "name": "Citrix Systems",
-      "industry": "Enterprise Software",
-      "status": "active"
-    },
-    {
       "name": "Cvent",
       "industry": "Event Management Software",
       "status": "active"
@@ -90,10 +85,803 @@
       "status": "active"
     },
     {
-      "name": "Epicor Software",
-      "industry": "ERP Software",
-      "status": "active"
+      "name": "Vista",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/portfolio"
+    },
+    {
+      "name": "Footer",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/portfolio"
+    },
+    {
+      "name": "Agentic AI and the Future of Enterprise Software",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/portfolio"
+    },
+    {
+      "name": "Aspira",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "PowerSchool",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Klarna",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Poppulo",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "EAB",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "OfficeSpace",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Resilinc",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Stats Perform",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Energy Exemplar",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Allocate",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "MRI",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Tomia",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Applause",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Lucid",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Lone Wolf",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SirsiDynix",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Search Hover",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Sonatype",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Joblogic",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Aderant",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Acumatica",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Solera",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Vivid Seats",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Advicent",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "ARCOS",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Integral Ad Science",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Numerator",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "TripleLift",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "MedTrainer",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Zywave",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "BigMachines",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Gnosis Freight",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "TigerConnect",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Regulatory Data Corporation",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "WorkTango",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SER",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Quickbase",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Granicus",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SourceNet Solutions",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Websense",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "MicroEdge",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "PlanSource",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Dispatch",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Bonterra",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Avalara",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Xactly",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "RollKall",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Model N",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Schoox",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Comply",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Pluralsight",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Wrike",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Greenway Health",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Fusion",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "TransFirst",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Securonix",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Tribute Technology",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Alegeus",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Ellucian",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Forcepoint",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "OneAdvanced",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "CentralSquare",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Eagleview",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "NAVEX",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Infoblox",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Allvue",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Olive.AI",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Innovapptive",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Accruent",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "InvoiceCloud",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SumTotal",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "LifeLoop",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Return Path",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Zapproved",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Accelya",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Jio",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Zego",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "BlueConic",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Brainware",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Upserve",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Aptean",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SecureLink",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Khoros",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Flash",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Aspect",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Main Street Hub",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Bullhorn",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Kibo",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Ventyx",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Naviga",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Menlo Security",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Surgical Information Systems",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Smartsheet",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "AKUVO",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SmartBear",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Gatekeeper",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Nexthink",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SRC",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "JAGGAER",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Sunquest",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Nasuni",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "RadarFirst",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "StarRez",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "LogicMonitor",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Upside",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Finastra",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Acquia",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Power Factors",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Gainsight",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Cloud Software Group",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Dentira",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Benchmark Gensuite",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Portside",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Critical Start",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Vertafore",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "SimplePractice",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "TRG Screen",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "AGDATA",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Mitratech",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Playlist",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "RiskExec",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Duck Creek Technologies",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Amtech",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "KnowBe4",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "BetterCloud",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Tripleseat",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Datto",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Relias Learning",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Trintech",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
+    },
+    {
+      "name": "Pipedrive",
+      "industry": "Software",
+      "status": "active",
+      "source": "crawl4ai:https://www.vistaequitypartners.com/companies"
     }
   ],
-  "portfolioLastResearched": "2026-04-21T19:01:46.921471"
+  "portfolioLastResearched": "2026-04-21T20:12:49.976372"
 }
