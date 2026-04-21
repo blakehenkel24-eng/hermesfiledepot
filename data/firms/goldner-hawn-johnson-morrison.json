@@ -59,6 +59,49 @@
       "name": "Compass Tools",
       "industry": "Specialty Distribution",
       "status": "active"
+    },
+    {
+      "name": "Allen Edmonds",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "GETSCO",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11202-31"
+    },
+    {
+      "name": "Lone Star Erosion Control",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11202-31"
+    },
+    {
+      "name": "Bendigo Hospital",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Morrison_%26_Co"
+    },
+    {
+      "name": "Melbourne Convention Centre PPP",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Morrison_%26_Co"
+    },
+    {
+      "name": "Secondary Schools",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Morrison_%26_Co"
+    },
+    {
+      "name": "Hobsonville Point Primary",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Morrison_%26_Co"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:09:40.892022"
 }

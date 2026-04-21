@@ -68,6 +68,31 @@
       "name": "Chemical Victoria",
       "industry": "Specialty Chemicals",
       "status": "active"
+    },
+    {
+      "name": "Norsk Titanium",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Material Sciences",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Casual Cushion",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10161-01"
+    },
+    {
+      "name": "IKI Manufacturing Co",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10161-01"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:11:42.241341"
 }

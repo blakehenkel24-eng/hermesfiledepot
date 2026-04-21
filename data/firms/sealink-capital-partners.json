@@ -61,6 +61,25 @@
       "name": "Guardian Water Services",
       "industry": "Environmental Services",
       "status": "active"
+    },
+    {
+      "name": "Ki Mobility Solutions",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Global Dental Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "THB",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/109725-22"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:19:09.315333"
 }

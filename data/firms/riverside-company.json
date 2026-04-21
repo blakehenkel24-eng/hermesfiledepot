@@ -37,7 +37,7 @@
       "office": "Cleveland, OH"
     },
     {
-      "name": "Béla Szigethy",
+      "name": "B\u00e9la Szigethy",
       "title": "Co-CEO & Co-Chairman",
       "office": "New York, NY"
     },
@@ -104,11 +104,6 @@
       "status": "exited"
     },
     {
-      "name": "Thompson Street Capital Partners (advisory)",
-      "industry": "Business Services",
-      "status": "exited"
-    },
-    {
       "name": "DuBois Chemicals",
       "industry": "Specialty Chemicals",
       "status": "exited"
@@ -117,6 +112,43 @@
       "name": "At-Home Group",
       "industry": "Retail",
       "status": "exited"
+    },
+    {
+      "name": "CreditLogic",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Security Centric",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Corporate Visions",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Riverside'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/riverside/___4x83jVkHteisUW0f-eoUH75pjmgaVZ5WEKk3JXt1wA"
+    },
+    {
+      "name": "CityReporter",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.riversidecompany.com/"
+    },
+    {
+      "name": "Western Botanicals",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.riversidecompany.com/"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:18:25.597744"
 }

@@ -40,18 +40,8 @@
   ],
   "portfolioCompanies": [
     {
-      "name": "Inspire Brands",
-      "industry": "Restaurant (Arby's, Buffalo Wild Wings, Sonic, Jimmy John's, Dunkin')",
-      "status": "active"
-    },
-    {
       "name": "Subway",
       "industry": "Restaurant",
-      "status": "active"
-    },
-    {
-      "name": "Driven Brands",
-      "industry": "Automotive Services (Meineke, Maaco, Take 5 Oil Change)",
       "status": "active"
     },
     {
@@ -78,6 +68,73 @@
       "name": "Massage Envy",
       "industry": "Wellness Services",
       "status": "active"
+    },
+    {
+      "name": "Baskin",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Arby's",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Maaco",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://grokipedia.com/page/Roark_Capital_Group"
+    },
+    {
+      "name": "Meineke",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://grokipedia.com/page/Roark_Capital_Group"
+    },
+    {
+      "name": "Dave's Hot Chicken",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://grokipedia.com/page/Roark_Capital_Group"
+    },
+    {
+      "name": "Accu",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10143-55"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/roarkcapital/__wktdUI8Mc7NqwWVTMXdWY6TxJ3mvqZ8n4V9_q-RX7o8"
+    },
+    {
+      "name": "Stripe",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "Databricks",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "San Francisco",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "OpenAI",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:18:52.598036"
 }

@@ -77,6 +77,79 @@
       "name": "Parallel Wireless",
       "industry": "Telecommunications Equipment",
       "status": "active"
+    },
+    {
+      "name": "Gigamon",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Newfold Digital",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Takkion",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/51635-71"
+    },
+    {
+      "name": "Siris Capital'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/siriscapital/__YfWBikFa96sOkTwCGgAkFy1cSjqhdwThUd0Hd0m8-S0"
+    },
+    {
+      "name": "Stripe",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "Databricks",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "San Francisco",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "OpenAI",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "Network Solutions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Endurance_International_Group"
+    },
+    {
+      "name": "Register",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Endurance_International_Group"
+    },
+    {
+      "name": "Domain",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Endurance_International_Group"
+    },
+    {
+      "name": "MarkMonitor",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Endurance_International_Group"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:19:23.887316"
 }

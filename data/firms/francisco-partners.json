@@ -85,6 +85,61 @@
       "name": "LeanTaaS",
       "industry": "Healthcare Software",
       "status": "active"
+    },
+    {
+      "name": "Efficient IP",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Blackline Safety",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Benjamin Ball",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Partners"
+    },
+    {
+      "name": "David Stanton",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Partners"
+    },
+    {
+      "name": "Neil Garfinkel",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Partners"
+    },
+    {
+      "name": "Paymetric",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Partners"
+    },
+    {
+      "name": "Edit",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Partners"
+    },
+    {
+      "name": "Powered",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Partners"
+    },
+    {
+      "name": "Sanford Robertson",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Partners"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:08:28.560930"
 }

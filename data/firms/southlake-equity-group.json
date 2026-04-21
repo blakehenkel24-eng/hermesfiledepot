@@ -46,6 +46,31 @@
       "name": "Airtron",
       "industry": "HVAC & Plumbing Services",
       "status": "active"
+    },
+    {
+      "name": "Karavan Trailers",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Silica Services",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "American Trailer Works",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Waples Manufacturing",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:19:38.014744"
 }

@@ -37,6 +37,37 @@
       "name": "Southeastern Building Services",
       "industry": "Building Services",
       "status": "active"
+    },
+    {
+      "name": "Hinge",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Immunai Technologies",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Tavros",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Albedo",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/501278-95"
+    },
+    {
+      "name": "Blue Current",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/501278-95"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:17:43.603463"
 }

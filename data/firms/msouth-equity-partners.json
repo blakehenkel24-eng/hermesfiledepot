@@ -45,6 +45,43 @@
       "name": "Security Fire Protection",
       "industry": "Fire Protection Services",
       "status": "active"
+    },
+    {
+      "name": "Capstone Logistics",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Savannah Pain Management",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10098-28"
+    },
+    {
+      "name": "Metro Plumbing",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10098-28"
+    },
+    {
+      "name": "Heating",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10098-28"
+    },
+    {
+      "name": "Interior Logic Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/msouth-equity-partners/__dkZhJcP6Vtj772Rm9Jvll6FTJhD12A7XOXVCSMGg324"
+    },
+    {
+      "name": "Eco",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/msouth-equity-partners/__dkZhJcP6Vtj772Rm9Jvll6FTJhD12A7XOXVCSMGg324"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:14:46.380115"
 }

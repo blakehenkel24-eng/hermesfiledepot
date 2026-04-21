@@ -57,6 +57,55 @@
       "name": "American Theatre Systems",
       "industry": "Consumer Products",
       "status": "exited"
+    },
+    {
+      "name": "Corporate Technologies",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Flex",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Checkers",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "United Skin Specialists",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://leadinginvestors.mcguirewoods.com/Entries/FirmDetails/?fsn=Tonka%20Bay"
+    },
+    {
+      "name": "CAMP Digital",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10148-77"
+    },
+    {
+      "name": "Gedney Foods",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11380-69F"
+    },
+    {
+      "name": "Midwest Dental",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11380-69F"
+    },
+    {
+      "name": "LightMart Holdings LLC",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tonkabayequity.com/news/tonka-bay-invests-in-lightmart/"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:21:49.329049"
 }

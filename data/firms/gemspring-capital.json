@@ -66,6 +66,31 @@
       "name": "ACS Services",
       "industry": "Business Services",
       "status": "active"
+    },
+    {
+      "name": "TSI Technologies",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/126029-89"
+    },
+    {
+      "name": "Industrial Specialties Manufacturing",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/126029-89"
+    },
+    {
+      "name": "Technology Recovery Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/23351-59F"
+    },
+    {
+      "name": "Creative Laboratories",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/23351-59F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:09:11.455244"
 }

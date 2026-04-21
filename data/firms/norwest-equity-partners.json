@@ -53,6 +53,31 @@
       "name": "UNFI",
       "industry": "Food Distribution",
       "status": "exited"
+    },
+    {
+      "name": "Marco",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Pentec Health",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Lang Company",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10062-28"
+    },
+    {
+      "name": "Edme Insurance Brokers",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10062-28"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:16:58.340748"
 }

@@ -66,24 +66,51 @@
       "status": "active"
     },
     {
-      "name": "Quest Software",
-      "industry": "Enterprise Software",
-      "status": "active"
-    },
-    {
       "name": "Cornerstone Building Brands (stake)",
       "industry": "Building Products",
       "status": "active"
     },
     {
-      "name": "IVP (Institutional Venture Partners)",
-      "industry": "Venture Capital",
-      "status": "exited"
-    },
-    {
       "name": "Panda Restaurant Group",
       "industry": "Restaurant/Franchise",
       "status": "active"
+    },
+    {
+      "name": "Constant Contact",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Blackbaud",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Diligent",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/clearlakecapitalgroup/__rTiMKJOfK2A7q-4c0uRx1aKQyUYwVdsWSYaBcfhA4Ss"
+    },
+    {
+      "name": "United Site Services",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10359-28"
+    },
+    {
+      "name": "Qualus",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10359-28"
+    },
+    {
+      "name": "Clearlake Credit Europe",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://whalewisdom.com/filer/clearlake-capital-group-lp"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:07:45.396293"
 }

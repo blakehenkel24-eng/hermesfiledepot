@@ -92,6 +92,145 @@
       "name": "Polyconcept",
       "industry": "Promotional Products",
       "status": "exited"
+    },
+    {
+      "name": "Ascension",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Warrantech",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Valtris",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Allegient",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Velocity",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Amerijet",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Alder",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Arvelle",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Aspire",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Adscape",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "ACG",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Ascent",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Agere",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Acqua",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Accounting",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Zerigo",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "American",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "ARBOC",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hig.com/portfolio/"
+    },
+    {
+      "name": "Inventus Power",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10097-56"
+    },
+    {
+      "name": "Global Elite Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10097-56"
+    },
+    {
+      "name": "Automatic  Light  Dark",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/H.I.G._Capital"
+    },
+    {
+      "name": "Small  Standard  Large",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/H.I.G._Capital"
+    },
+    {
+      "name": "Powered",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/H.I.G._Capital"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:10:55.944508"
 }

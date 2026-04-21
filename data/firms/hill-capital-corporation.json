@@ -47,6 +47,55 @@
       "name": "Specright",
       "industry": "Enterprise Software",
       "status": "active"
+    },
+    {
+      "name": "Toovio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "SolarteHealth",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "SaRA Health",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/149721-40"
+    },
+    {
+      "name": "Flora",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/149721-40"
+    },
+    {
+      "name": "Foreverence",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/24516-28F"
+    },
+    {
+      "name": "Hirect One",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/53876-35"
+    },
+    {
+      "name": "The New World Trading Company",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/53876-35"
+    },
+    {
+      "name": "Resorts",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/53876-35"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:11:08.981651"
 }

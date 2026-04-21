@@ -105,11 +105,6 @@
       "status": "active"
     },
     {
-      "name": "Bravo Sports",
-      "industry": "Consumer Products",
-      "status": "active"
-    },
-    {
       "name": "Lily's Sweets",
       "industry": "Food & Beverage",
       "status": "active"
@@ -133,6 +128,37 @@
       "name": "Boulder Brands",
       "industry": "Food & Beverage",
       "status": "exited"
+    },
+    {
+      "name": "EGYM",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/150732-01"
+    },
+    {
+      "name": "Mars Men",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/150732-01"
+    },
+    {
+      "name": "The Honest Company",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://grokipedia.com/page/L_Catterton"
+    },
+    {
+      "name": "Peloton",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://grokipedia.com/page/L_Catterton"
+    },
+    {
+      "name": "Shanghai Enova Pet Products",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.lcatterton.com/press.html#!/LCAsia-enova"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:13:03.927536"
 }

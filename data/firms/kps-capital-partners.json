@@ -108,9 +108,11 @@
       "status": "exited"
     },
     {
-      "name": "Stanley Electric",
-      "industry": "Lighting Manufacturing",
-      "status": "exited"
+      "name": "IKG",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/KPS_Capital_Partners"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:12:50.401748"
 }

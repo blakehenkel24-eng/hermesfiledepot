@@ -57,6 +57,31 @@
       "name": "Meadowbrook Insurance",
       "industry": "Insurance Services",
       "status": "exited"
+    },
+    {
+      "name": "Midland Garage Door",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Commonwealth Blinds",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/42328-90"
+    },
+    {
+      "name": "Immuno Spot",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/42328-90"
+    },
+    {
+      "name": "Interia",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/15211-09F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:13:47.764408"
 }

@@ -46,6 +46,43 @@
       "name": "Southpoint Financial Services",
       "industry": "Financial Services",
       "status": "exited"
+    },
+    {
+      "name": "American Virtual Cloud Technologies",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "KINS Technology Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11505-97"
+    },
+    {
+      "name": "Stripe",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "Databricks",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "San Francisco",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
+    },
+    {
+      "name": "OpenAI",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://news.crunchbase.com/unicorn-company-list/"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:16:23.366817"
 }

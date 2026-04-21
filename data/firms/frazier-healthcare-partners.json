@@ -97,6 +97,19 @@
       "name": "Ventas",
       "industry": "Healthcare REIT",
       "status": "exited"
+    },
+    {
+      "name": "Achieve Life Sciences",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Sidewinder Therapeutics",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11194-12"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:08:41.222956"
 }

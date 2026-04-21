@@ -93,6 +93,469 @@
       "name": "ForgeRock",
       "industry": "Identity Management",
       "status": "active"
+    },
+    {
+      "name": "Command Alkon",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "UserTesting",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Aisera",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Imprivata",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Alma",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Appomni",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Jeppesen ForeFlight",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "RealPage",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Figment",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Mercell",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "CompTIA",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "EQS",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Imply",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Intel 471",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "N Able",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Servicetitan",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Darktrace",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "HubSync",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Illumio",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Apryse",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Pcmi",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Casepoint",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Hcss",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Qad",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Anaplan",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Cority",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Verint",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Conga",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "FTX",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Motus",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "BlueMatrix",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "ConnectWise",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Magnetic Forensics",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Flexera",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Foundation Software",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Olo",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Bottomline",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Usu",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Nearmap",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Vivian",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Personetics",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Eptura",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Auctane",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Falcon X",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Trm Labs",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Azul",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Hypergene",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Alation",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Planview",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Starburst",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Circle Cardiovascular Imaging",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Nextgen",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Pros",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Continuous",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Trading Technologies",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Delinea",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Bluesight",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Solifi",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Applitools",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Exabeam",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "J.D. Power",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Everbridge",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Anchorage",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Nintex",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Project44",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Majesco",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Proofpoint",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Suvoda",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Hyland",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Riskonnect",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Coupa",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Dayforce",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Pendo",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "ABC Fitness Solutions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Logex",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.thomabravo.com/portfolio"
+    },
+    {
+      "name": "Stacc Escali",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10052-11"
+    },
+    {
+      "name": "Worldwide Express",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10052-11"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:21:26.552251"
 }

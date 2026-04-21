@@ -82,6 +82,25 @@
       "name": "IGN Entertainment",
       "industry": "Digital Media",
       "status": "exited"
+    },
+    {
+      "name": "CirrusMD",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10058-77"
+    },
+    {
+      "name": "RightPath Investments",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10058-77"
+    },
+    {
+      "name": "Great Hill Funds",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.greathillpartners.com/about"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:09:56.956258"
 }

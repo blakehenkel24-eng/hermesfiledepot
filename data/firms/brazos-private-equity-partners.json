@@ -62,6 +62,25 @@
       "name": "American Construction & Logistics",
       "industry": "Industrial Services",
       "status": "active"
+    },
+    {
+      "name": "The Henry Wine Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Noble Wines",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10034-02"
+    },
+    {
+      "name": "Princeton Ventures",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/brazos-private-equity-partners/__Q4Y6OunIrrZKuv4CkcQCZ25TdZC5FvKvTotklhlo9Tc"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:06:16.880678"
 }

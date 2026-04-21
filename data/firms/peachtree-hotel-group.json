@@ -39,14 +39,40 @@
   ],
   "portfolioCompanies": [
     {
-      "name": "Hilton Portfolio",
+      "name": "Marriott Extended Stay Portfolio",
       "industry": "Hospitality/Lodging",
       "status": "active"
     },
     {
-      "name": "Marriott Extended Stay Portfolio",
-      "industry": "Hospitality/Lodging",
-      "status": "active"
+      "name": "Hilton Garden Inn",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Home2 Suites",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Fairfield Inn Evansville East",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.businesswire.com/news/home/20251002297100/en/Peachtree-Group-Expands-Hotel-Management-Portfolio-with-Six-New-Properties"
+    },
+    {
+      "name": "Portman",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/John_C._Portman_Jr."
+    },
+    {
+      "name": "FINRA",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.peachtreegroup.com/faq"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:17:26.276043"
 }

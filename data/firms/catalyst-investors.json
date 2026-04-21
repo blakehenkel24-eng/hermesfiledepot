@@ -66,6 +66,61 @@
       "name": "Zenput",
       "industry": "Software",
       "status": "exited"
+    },
+    {
+      "name": "SaaS",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Procurement Sciences AI",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Breezeway",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Next Glass",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "WeddingWire",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Mindbody",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Burro",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "YPS",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.tcgfunds.com/portfolio/past-investments"
+    },
+    {
+      "name": "MessageLabs Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11047-15F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:07:16.025256"
 }

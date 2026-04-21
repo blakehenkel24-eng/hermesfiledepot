@@ -71,6 +71,19 @@
       "name": "Clinical Innovations",
       "industry": "Medical Devices",
       "status": "active"
+    },
+    {
+      "name": "Pritzker Private Capital",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.naw.org/affiliate/pritzker-private-capital/"
+    },
+    {
+      "name": "Hyatt Hotels",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.naw.org/affiliate/pritzker-private-capital/"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:18:14.116396"
 }

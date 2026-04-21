@@ -112,6 +112,25 @@
       "name": "Cision",
       "industry": "Media Technology",
       "status": "exited"
+    },
+    {
+      "name": "Zentiva",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "GTCR'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/gtcr/__SGHoUv_jYh9OK5quq5PSKHUxyq9V-w0B2HvfpQoEy4o"
+    },
+    {
+      "name": "LiveBarn",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10035-37"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:10:09.599252"
 }

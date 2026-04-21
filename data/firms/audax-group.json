@@ -65,11 +65,6 @@
       "status": "active"
     },
     {
-      "name": "TrustBridge Partners",
-      "industry": "Healthcare Services",
-      "status": "active"
-    },
-    {
       "name": "Envoy Air",
       "industry": "Aviation Services",
       "status": "exited"
@@ -80,9 +75,41 @@
       "status": "exited"
     },
     {
-      "name": "Revolution Group",
-      "industry": "Business Services",
-      "status": "active"
+      "name": "Neighborly",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Fortis",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Chartis",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Panoramic Health",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/corporate-investments/investments-by-audax-group/__z1Q2Iug_F0tApCsOrTBV8D_OdmjLRWuP7obv_Iqiuek"
+    },
+    {
+      "name": "Sanitary Solutions",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10013-32"
+    },
+    {
+      "name": "Berman Hopkins CPAs",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10013-32"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:05:36.668729"
 }

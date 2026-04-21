@@ -76,6 +76,31 @@
       "name": "Builders CADware",
       "industry": "Software",
       "status": "exited"
+    },
+    {
+      "name": "Savillex",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Bio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Long Pest Control",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10034-38"
+    },
+    {
+      "name": "Karpel Solutions",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10034-38"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:21:40.804527"
 }

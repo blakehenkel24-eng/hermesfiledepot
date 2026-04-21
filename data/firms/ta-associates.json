@@ -49,7 +49,7 @@
       "office": "Boston, MA"
     },
     {
-      "name": "John S. Hart", 
+      "name": "John S. Hart",
       "title": "Managing Principal",
       "office": "Boston, MA"
     },
@@ -89,6 +89,67 @@
       "name": "Scout24 (AutoScout24)",
       "industry": "Digital Classifieds",
       "status": "exited"
+    },
+    {
+      "name": "Financial Services",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.ta.com/portfolio/investments/"
+    },
+    {
+      "name": "Healthcare",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.ta.com/portfolio/investments/"
+    },
+    {
+      "name": "Technology",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.ta.com/portfolio/investments/"
+    },
+    {
+      "name": "Investments",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.ta.com/portfolio/investments/"
+    },
+    {
+      "name": "Consumer",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.ta.com/portfolio/investments/"
+    },
+    {
+      "name": "Appfire",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "AffiniPay",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Fullcircle Wealth",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10050-31"
+    },
+    {
+      "name": "Zero Point Security",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10050-31"
+    },
+    {
+      "name": "TA'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/ta/__yql25A3f0en5YrNO-hxd1wr3cbYcdm6dogbS1lKXtKc"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:21:10.068259"
 }

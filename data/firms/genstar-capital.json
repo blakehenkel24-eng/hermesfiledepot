@@ -69,11 +69,6 @@
       "status": "exited"
     },
     {
-      "name": "AssuredPartners",
-      "industry": "Insurance Distribution",
-      "status": "exited"
-    },
-    {
       "name": "Procare Solutions",
       "industry": "Childcare Technology",
       "status": "active"
@@ -82,6 +77,37 @@
       "name": "Medline Industries (minority stake)",
       "industry": "Healthcare Supplies",
       "status": "active"
+    },
+    {
+      "name": "Amwins Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Ametris",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10092-25"
+    },
+    {
+      "name": "Automatic  Light  Dark",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Genstar_Capital"
+    },
+    {
+      "name": "Small  Standard  Large",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Genstar_Capital"
+    },
+    {
+      "name": "Powered",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Genstar_Capital"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:09:24.155840"
 }

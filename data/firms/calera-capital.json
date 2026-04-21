@@ -50,11 +50,6 @@
   ],
   "portfolioCompanies": [
     {
-      "name": "Kestra Financial",
-      "industry": "Financial Services",
-      "status": "active"
-    },
-    {
       "name": "Epik Foods",
       "industry": "Food & Beverage",
       "status": "active"
@@ -78,6 +73,55 @@
       "name": "Employers Overload",
       "industry": "Staffing",
       "status": "exited"
+    },
+    {
+      "name": "Imagefirstlogo",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.caleracapital.com/sector-focus/portfolio/imagefirst.html"
+    },
+    {
+      "name": "The Evans Network Of Companies",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.caleracapital.com/sector-focus/portfolio/imagefirst.html"
+    },
+    {
+      "name": "United Site Services",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.caleracapital.com/sector-focus/portfolio/imagefirst.html"
+    },
+    {
+      "name": "Rock It Cargo Case Study",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.caleracapital.com/sector-focus/portfolio/imagefirst.html"
+    },
+    {
+      "name": "Enoc Official",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.caleracapital.com/sector-focus/portfolio/imagefirst.html"
+    },
+    {
+      "name": "Nocturne Luxury Villas",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Calera Capital'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/calera-capital/__mFF3YDYxiggMdO-xklqzk-MMTVH29hZ20HJeJK9YHzs"
+    },
+    {
+      "name": "Hometown",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10121-68"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:06:28.093811"
 }

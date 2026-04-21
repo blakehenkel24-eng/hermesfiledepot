@@ -67,6 +67,13 @@
       "name": "3Phoenix",
       "industry": "Technology Services",
       "status": "exited"
+    },
+    {
+      "name": "Trive",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://app.dealroom.co/investors/trive_capital_holdings"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:22:19.374887"
 }

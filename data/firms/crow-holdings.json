@@ -61,11 +61,6 @@
       "status": "active"
     },
     {
-      "name": "Crow Holdings Capital Partners",
-      "industry": "Real Estate Investment Management",
-      "status": "active"
-    },
-    {
       "name": "High Street Residential",
       "industry": "Mixed-Use Development",
       "status": "active"
@@ -74,6 +69,37 @@
       "name": "Aztec Group",
       "industry": "Industrial Logistics",
       "status": "exited"
+    },
+    {
+      "name": "SwiftConnect",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Backflip",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Old Parkland",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Crow_Holdings"
+    },
+    {
+      "name": "Whole Foods",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Crow_Holdings"
+    },
+    {
+      "name": "Amazon",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Crow_Holdings"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:08:17.440581"
 }

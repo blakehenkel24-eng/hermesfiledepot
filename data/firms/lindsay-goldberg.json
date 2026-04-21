@@ -89,6 +89,25 @@
       "name": "European Electric Motor Group",
       "industry": "Industrials",
       "status": "active"
+    },
+    {
+      "name": "Lightwave",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10257-04"
+    },
+    {
+      "name": "EMCO Chemical Distributors",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10257-04"
+    },
+    {
+      "name": "Lindsay Goldberg'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/lindsaygoldberg/__Q7PeOSqcpa2j0lJ8Wa8JoVz_G54zR7I8GHqGmdk6i5c"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:13:24.799601"
 }

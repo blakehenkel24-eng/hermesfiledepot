@@ -50,6 +50,55 @@
       "name": "Sun Holdings",
       "industry": "Restaurant Franchise Platform",
       "status": "active"
+    },
+    {
+      "name": "IHOP",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Applebee's",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Planet Fitness",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "The Perfect Light",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10143-91"
+    },
+    {
+      "name": "Premier Lighting Enterprises",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10143-91"
+    },
+    {
+      "name": "Comment",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://support.crunchbase.com/hc/en-us/community/posts/28951963078931-Download-of-Investor-list-including-their-portfolio-companies"
+    },
+    {
+      "name": "Crunchbase",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://support.crunchbase.com/hc/en-us/community/posts/28951963078931-Download-of-Investor-list-including-their-portfolio-companies"
+    },
+    {
+      "name": "ACG Texas",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/16330-60F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:05:21.927253"
 }

@@ -87,11 +87,6 @@
       "status": "active"
     },
     {
-      "name": "HealthCare Partners",
-      "industry": "Healthcare Services",
-      "status": "exited"
-    },
-    {
       "name": "Uber",
       "industry": "Technology",
       "status": "exited"
@@ -120,6 +115,25 @@
       "name": "Continental Airlines",
       "industry": "Airlines",
       "status": "exited"
+    },
+    {
+      "name": "TPG'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/tpg/__oKvZtWF69-o1kerV4K2to3m7vEe94euqDXKQWE9n6f4"
+    },
+    {
+      "name": "Comment",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://support.crunchbase.com/hc/en-us/community/posts/28951963078931-Download-of-Investor-list-including-their-portfolio-companies"
+    },
+    {
+      "name": "Crunchbase",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://support.crunchbase.com/hc/en-us/community/posts/28951963078931-Download-of-Investor-list-including-their-portfolio-companies"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:22:06.693176"
 }

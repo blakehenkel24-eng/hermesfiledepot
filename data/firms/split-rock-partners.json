@@ -25,7 +25,7 @@
   "geographicFocus": [
     "United States"
   ],
-  "keyPersonnel":[
+  "keyPersonnel": [
     {
       "name": "Jim Hooper",
       "title": "Managing Partner",
@@ -49,14 +49,70 @@
       "status": "exited"
     },
     {
-      "name": "Torax Medical",
-      "industry": "Medical Devices",
-      "status": "exited"
-    },
-    {
       "name": "OneOncology",
       "industry": "Healthcare Services",
       "status": "active"
+    },
+    {
+      "name": "BigCommerce",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Acquia",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Calix",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/venture-capital/splitrockpartners/__cu5I99FhPwGRs00OHOdO1Vbqhooft-hFY_KDlgRSclg"
+    },
+    {
+      "name": "QuinStreet",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/venture-capital/splitrockpartners/__cu5I99FhPwGRs00OHOdO1Vbqhooft-hFY_KDlgRSclg"
+    },
+    {
+      "name": "Alert Logic",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11303-56"
+    },
+    {
+      "name": "Gravie",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11303-56"
+    },
+    {
+      "name": "Miramar Labs",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11279-53F"
+    },
+    {
+      "name": "Cayenne Medical",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11279-53F"
+    },
+    {
+      "name": "Guardian Analytics",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11585-44F"
+    },
+    {
+      "name": "Sparkcentral",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11585-44F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:20:25.417319"
 }

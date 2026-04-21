@@ -50,6 +50,157 @@
       "name": "Allegient",
       "industry": "Business Services",
       "status": "active"
+    },
+    {
+      "name": "Elite Interactive Solutions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Industrial Networking Solutions",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Specialized Elevator Services",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "GPRS",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "HR Green",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Continuum Companies",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Computer Aided Technology",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "OTR Transportation",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Signers National",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "KeyData Cyber",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Datavail",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "InnovateMR",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Crest Insurance Group",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Magna Legal Services",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "American Refrigeration USA",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Renu",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Highstreet",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "CIVC",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Allata",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "StoneRidge Insurance Brokers",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Strategus",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Pursuit Wealth Management",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10171-00"
+    },
+    {
+      "name": "Driven Island Agencies",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10171-00"
+    },
+    {
+      "name": "Cary",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://www.civc.com/companies/"
+    },
+    {
+      "name": "Fund VII",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://grokipedia.com/page/civc_partners"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:07:25.477419"
 }

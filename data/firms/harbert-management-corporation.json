@@ -60,6 +60,37 @@
       "name": "Power Plan",
       "industry": "Utility Software",
       "status": "active"
+    },
+    {
+      "name": "Forsta",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "News Corporation",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Cleveland",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Lynx Legal Services",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Harbert Management'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/harbertmanagement/__5x44VXrYgG0Kpbtl_SLddu_Vpl5fiCCJKCn-hTiUX3c"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:10:20.793144"
 }

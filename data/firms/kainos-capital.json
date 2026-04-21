@@ -72,6 +72,55 @@
       "name": "Stryker Brands",
       "industry": "Consumer Products",
       "status": "active"
+    },
+    {
+      "name": "Ancient Nutrition",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Kainos Capital'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/kainoscapital/__OShhRcM5J2GdPtE5W7zWCafKCWJRb49apyl8VmS6TvY"
+    },
+    {
+      "name": "Biocidin Botanicals",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/53814-88"
+    },
+    {
+      "name": "Country Fresh",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://kainoscapital.com/portfolio/"
+    },
+    {
+      "name": "Snack Sensations",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://kainoscapital.com/portfolio/"
+    },
+    {
+      "name": "Seguros Commercial America",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/HM_Capital_Partners"
+    },
+    {
+      "name": "Product Quest MFG",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/13436-38F"
+    },
+    {
+      "name": "Colorado Premium Deli",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/18550-00F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:12:01.234172"
 }

@@ -47,6 +47,61 @@
       "name": "Pinnacle Building Services",
       "industry": "Facility Services",
       "status": "exited"
+    },
+    {
+      "name": "Stationhead",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10538-74"
+    },
+    {
+      "name": "Spartan Flight Academy",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10538-74"
+    },
+    {
+      "name": "Refining",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://sterling-group.com/portfolio/"
+    },
+    {
+      "name": "Waste",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://sterling-group.com/portfolio/"
+    },
+    {
+      "name": "Power Generation",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://sterling-group.com/portfolio/"
+    },
+    {
+      "name": "Petrochemical",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://sterling-group.com/portfolio/"
+    },
+    {
+      "name": "Mining",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://sterling-group.com/portfolio/"
+    },
+    {
+      "name": "Manufacturing",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://sterling-group.com/portfolio/"
+    },
+    {
+      "name": "Model",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://sterlingcapital.com/eog/"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:20:58.980997"
 }

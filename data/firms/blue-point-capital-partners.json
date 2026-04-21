@@ -83,6 +83,37 @@
       "name": "Heartland Building Systems",
       "industry": "Building Products",
       "status": "exited"
+    },
+    {
+      "name": "Mattco Forge",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Brimar Industries",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Russell Hendrix Foodservice Equipment",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Consolidated Precision Products Corp",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "National Safety Apparel",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:06:00.002577"
 }

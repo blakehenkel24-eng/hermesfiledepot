@@ -52,6 +52,169 @@
       "name": "Vocal Laboratories",
       "industry": "Technology Services",
       "status": "exited"
+    },
+    {
+      "name": "Aiviro",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "KiloEx",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Arkansas",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Saronic Technologies",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Twitter",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Formation",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "EnClear Therapies",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Thiel",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Donald Trump",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Clarium Capital",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "SpaceX",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Masters",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Alloy Therapeutics",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Noetik",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Anduril",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Founders Fund",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Impulse Space",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Google",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "New",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Vance",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Amazon",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Model Solution",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Ataraxis AI",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Palantir",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Rivendell One LLC",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Seojin System",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Peter_Thiel"
+    },
+    {
+      "name": "Cisco Jasper",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/11149-39F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:08:05.895670"
 }

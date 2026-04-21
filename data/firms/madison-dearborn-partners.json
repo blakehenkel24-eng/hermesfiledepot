@@ -98,6 +98,13 @@
       "name": "Ikaria",
       "industry": "Healthcare",
       "status": "exited"
+    },
+    {
+      "name": "Ankura Consulting Group",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:14:35.415959"
 }

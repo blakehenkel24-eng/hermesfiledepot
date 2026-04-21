@@ -49,11 +49,6 @@
   ],
   "portfolioCompanies": [
     {
-      "name": "Pruvia Health",
-      "industry": "Healthcare Services",
-      "status": "active"
-    },
-    {
       "name": "WellSuccess",
       "industry": "Healthcare Services",
       "status": "active"
@@ -77,6 +72,31 @@
       "name": "Collective Medical",
       "industry": "Healthcare Technology",
       "status": "exited"
+    },
+    {
+      "name": "Maitland",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Heritage_Home_Group"
+    },
+    {
+      "name": "Drexel",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Heritage_Home_Group"
+    },
+    {
+      "name": "Thomasville",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Heritage_Home_Group"
+    },
+    {
+      "name": "Hickory Chair",
+      "industry": "Software",
+      "status": "active",
+      "source": "https://en.wikipedia.org/wiki/Heritage_Home_Group"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:10:41.918126"
 }

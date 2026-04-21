@@ -53,11 +53,6 @@
       "status": "exited"
     },
     {
-      "name": "American Renal Associates",
-      "industry": "Healthcare Services",
-      "status": "exited"
-    },
-    {
       "name": "ImagineSoftware",
       "industry": "Healthcare Technology",
       "status": "active"
@@ -71,6 +66,49 @@
       "name": "Access eForms",
       "industry": "Technology",
       "status": "active"
+    },
+    {
+      "name": "Alarm Connections",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Convergence Networks",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Atchison Casting",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "AMCAD",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Calero",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Clear Concepts",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10540-27"
+    },
+    {
+      "name": "Certinet Systems",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10540-27"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:18:41.076919"
 }

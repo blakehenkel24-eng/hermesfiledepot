@@ -72,6 +72,37 @@
       "name": "J.A. Preston",
       "industry": "Business Services",
       "status": "exited"
+    },
+    {
+      "name": "Chan",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Frontenac'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/frontenac/__J1f3jYej6Hb9AomLldzYSzJTsZ1NhTSFUFe5aFXprOA"
+    },
+    {
+      "name": "Schlotterbeck",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/13599-46F"
+    },
+    {
+      "name": "Dealer Services Network",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/15966-91F"
+    },
+    {
+      "name": "Myridius",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/15966-91F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:08:56.328954"
 }

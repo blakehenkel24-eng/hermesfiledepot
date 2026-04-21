@@ -7,7 +7,7 @@
     "state": ""
   },
   "website": "https://www.ikpartners.com",
-  "aum": "€10B+",
+  "aum": "\u20ac10B+",
   "fundCount": 11,
   "tier": 2,
   "dateAdded": "2026-04-21",
@@ -55,11 +55,6 @@
   ],
   "portfolioCompanies": [
     {
-      "name": "GHD Group",
-      "industry": "Healthcare Services",
-      "status": "active"
-    },
-    {
       "name": "ASG Security",
       "industry": "Security Services",
       "status": "active"
@@ -70,14 +65,22 @@
       "status": "exited"
     },
     {
-      "name": "VPS Group",
-      "industry": "Property Services",
-      "status": "active"
-    },
-    {
       "name": "MIPS",
       "industry": "Industrial Safety",
       "status": "exited"
+    },
+    {
+      "name": "BIOBank",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Eurobio Scientific",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:11:32.025290"
 }

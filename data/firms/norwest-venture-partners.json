@@ -81,6 +81,79 @@
       "name": "Shape Security",
       "industry": "Cybersecurity",
       "status": "exited"
+    },
+    {
+      "name": "Spotify",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Udemy",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Adaptive Insights",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hub.waveup.com/funds/norwest-venture-partners"
+    },
+    {
+      "name": "Talkspace",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hub.waveup.com/funds/norwest-venture-partners"
+    },
+    {
+      "name": "Kendra Scott",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hub.waveup.com/funds/norwest-venture-partners"
+    },
+    {
+      "name": "Opendoor",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://hub.waveup.com/funds/norwest-venture-partners"
+    },
+    {
+      "name": "Endovascular Engineering",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11258-83"
+    },
+    {
+      "name": "ORO Labs",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/11258-83"
+    },
+    {
+      "name": "Amagi",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/12637-27F"
+    },
+    {
+      "name": "BusinessNext",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/12637-27F"
+    },
+    {
+      "name": "Nectero Therapeutics",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/20398-60F"
+    },
+    {
+      "name": "SourceDay",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/fund/20398-60F"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:17:11.641807"
 }

@@ -78,6 +78,37 @@
       "name": "PCR Group",
       "industry": "Business Services",
       "status": "active"
+    },
+    {
+      "name": "Hireology",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "tavily-ai-answer"
+    },
+    {
+      "name": "Venture Investors",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/bairdcapital/__Mv2Ix9XJRow4Eh-qevKmtCxZakmzl98hiKUlHadlXKw"
+    },
+    {
+      "name": "Baird Capital'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/bairdcapital/__Mv2Ix9XJRow4Eh-qevKmtCxZakmzl98hiKUlHadlXKw"
+    },
+    {
+      "name": "Dolon",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10049-14"
+    },
+    {
+      "name": "Visible Analytics",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10049-14"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:05:49.590560"
 }

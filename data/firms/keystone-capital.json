@@ -48,14 +48,58 @@
   ],
   "portfolioCompanies": [
     {
-      "name": "Physicians Immediate Care",
-      "industry": "Healthcare",
-      "status": "active"
-    },
-    {
       "name": "Blue Vapor",
       "industry": "Technology",
       "status": "active"
+    },
+    {
+      "name": "Keystone Capital'sportfolio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/keystone-capital/__Q4zWf0164Q_iU2ikV5EZWjhKofsYweeD1FeXlM55bXg"
+    },
+    {
+      "name": "Shashvat Mansukhbhai Nakrani",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/private-equity/keystone-capital/__Q4zWf0164Q_iU2ikV5EZWjhKofsYweeD1FeXlM55bXg"
+    },
+    {
+      "name": "Vaccinex",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/venture-capital/keystone-capital-partners/__1UdC71LyEHa2cMgPx2ojQM1PMs5WyfSQlnh1aVO7Ke8"
+    },
+    {
+      "name": "Anpac Bio",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/venture-capital/keystone-capital-partners/__1UdC71LyEHa2cMgPx2ojQM1PMs5WyfSQlnh1aVO7Ke8"
+    },
+    {
+      "name": "Adial Pharmaceuticals",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://tracxn.com/d/venture-capital/keystone-capital-partners/__1UdC71LyEHa2cMgPx2ojQM1PMs5WyfSQlnh1aVO7Ke8"
+    },
+    {
+      "name": "JetPack Aviation",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/470471-41"
+    },
+    {
+      "name": "Unison Consulting",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10273-69"
+    },
+    {
+      "name": "Elevator Safety Inspection Services",
+      "industry": "Unknown",
+      "status": "active",
+      "source": "https://pitchbook.com/profiles/investor/10273-69"
     }
-  ]
+  ],
+  "portfolioLastResearched": "2026-04-21T18:12:19.733667"
 }
