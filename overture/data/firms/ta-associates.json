@@ -1,0 +1,94 @@
+{
+  "slug": "ta-associates",
+  "name": "TA Associates",
+  "description": "TA Associates is a leading global growth private equity firm focused on scaled-up technology, healthcare, financial services, and consumer businesses. Founded in 1968, TA is one of the earliest growth equity investors and manages over $60 billion in capital. The firm targets profitable, growing companies with $10 million to $100 million+ in EBITDA, investing in both minority and majority transactions.",
+  "hq": {
+    "city": "Boston",
+    "state": "MA"
+  },
+  "website": "https://www.ta.com",
+  "aum": "$60B+",
+  "fundCount": 15,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Growth Equity",
+    "Buyout",
+    "Minority Investments"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Healthcare",
+    "Financial Services",
+    "Consumer"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe",
+    "Asia"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Brian M. Conway",
+      "title": "Chairman",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Michael A. Wilson",
+      "title": "Managing Principal & Co-Head of Global Investment Committee",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Jennifer A. Mulloy",
+      "title": "Managing Principal & Co-Head of Global Investment Committee",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Steven P. Elefant",
+      "title": "Managing Principal",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "John S. Hart", 
+      "title": "Managing Principal",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Karl R. F. E. Lohmeyer",
+      "title": "Managing Principal",
+      "office": "Boston, MA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Alteryx",
+      "industry": "Data Analytics Software",
+      "status": "active"
+    },
+    {
+      "name": "Billtrust",
+      "industry": "Financial Technology",
+      "status": "exited"
+    },
+    {
+      "name": "Privitar",
+      "industry": "Data Privacy Software",
+      "status": "active"
+    },
+    {
+      "name": "Sarnova",
+      "industry": "Healthcare Distribution",
+      "status": "active"
+    },
+    {
+      "name": "Iodine Software",
+      "industry": "Healthcare AI",
+      "status": "active"
+    },
+    {
+      "name": "Scout24 (AutoScout24)",
+      "industry": "Digital Classifieds",
+      "status": "exited"
+    }
+  ]
+}

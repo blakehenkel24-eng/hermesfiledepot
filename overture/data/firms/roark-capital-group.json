@@ -1,0 +1,83 @@
+{
+  "slug": "roark-capital-group",
+  "name": "Roark Capital Group",
+  "description": "Roark Capital Group is a leading private equity firm specializing in franchise, multi-unit, and service-brand investments across the restaurant, retail, and consumer services sectors. Founded in 2001 by Neal Aronson, the firm has assembled one of the most formidable portfolios of iconic brand names in private equity, with particular depth in franchised restaurant and service concepts. Roark is known for its long-term, buy-and-build approach to creating value in its portfolio companies.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.roarkcapital.com",
+  "aum": "$40B+",
+  "fundCount": 8,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Franchise/Multi-Unit",
+    "Restaurant",
+    "Consumer Services",
+    "Food & Beverage",
+    "Health & Wellness"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Neal Aronson",
+      "title": "Founder & Managing Partner",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Drew Madsen",
+      "title": "Operating Partner",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Inspire Brands",
+      "industry": "Restaurant (Arby's, Buffalo Wild Wings, Sonic, Jimmy John's, Dunkin')",
+      "status": "active"
+    },
+    {
+      "name": "Subway",
+      "industry": "Restaurant",
+      "status": "active"
+    },
+    {
+      "name": "Driven Brands",
+      "industry": "Automotive Services (Meineke, Maaco, Take 5 Oil Change)",
+      "status": "active"
+    },
+    {
+      "name": "PetVet Care Centers",
+      "industry": "Veterinary Services",
+      "status": "active"
+    },
+    {
+      "name": "Anytime Fitness",
+      "industry": "Fitness Franchise",
+      "status": "active"
+    },
+    {
+      "name": "Miller's Ale House",
+      "industry": "Restaurant",
+      "status": "active"
+    },
+    {
+      "name": "FOCUS Brands (GoTo Foods)",
+      "industry": "Multi-Brand Restaurant Franchise",
+      "status": "active"
+    },
+    {
+      "name": "Massage Envy",
+      "industry": "Wellness Services",
+      "status": "active"
+    }
+  ]
+}

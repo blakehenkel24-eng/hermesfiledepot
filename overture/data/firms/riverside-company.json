@@ -1,0 +1,122 @@
+{
+  "slug": "riverside-company",
+  "name": "The Riverside Company",
+  "description": "The Riverside Company is one of the world's most active and experienced lower middle-market private equity firms, with over $14 billion in assets under management and a global footprint spanning North America, Europe, and Asia Pacific. The firm has completed over 800+ investments since its founding in 1988, targeting companies with enterprise values up to $400 million across a diversified set of industries through its buyout and structured capital strategies.",
+  "hq": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "website": "https://www.riversidecompany.com",
+  "aum": "$14B+",
+  "fundCount": 12,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Structured Capital",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Healthcare",
+    "Business Services",
+    "Industrial & Manufacturing",
+    "Consumer",
+    "Education"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Stewart P. (Stew) Kohl",
+      "title": "Co-CEO & Co-Chairman",
+      "office": "Cleveland, OH"
+    },
+    {
+      "name": "Béla Szigethy",
+      "title": "Co-CEO & Co-Chairman",
+      "office": "New York, NY"
+    },
+    {
+      "name": "David A. Kingsberry",
+      "title": "Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Philip K. (Phil) Gailus",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Paul H. (Pablo) Spector",
+      "title": "Managing Partner",
+      "office": "New York, NY"
+    },
+    {
+      "name": "Kevin R. Copper",
+      "title": "Managing Partner",
+      "office": "Cleveland, OH"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Education Dynamics",
+      "industry": "Education Technology",
+      "status": "active"
+    },
+    {
+      "name": "WorldPay (Merchant Services)",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "TruHearing",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "ICS",
+      "industry": "Business Services",
+      "status": "active"
+    },
+    {
+      "name": "Alcott Professional Resources",
+      "industry": "Staffing",
+      "status": "active"
+    },
+    {
+      "name": "Marshfield Food Safety",
+      "industry": "Food Safety Testing",
+      "status": "active"
+    },
+    {
+      "name": "Collective Health",
+      "industry": "Healthcare Technology",
+      "status": "active"
+    },
+    {
+      "name": "Springs Window Fashions",
+      "industry": "Consumer Products",
+      "status": "exited"
+    },
+    {
+      "name": "Thompson Street Capital Partners (advisory)",
+      "industry": "Business Services",
+      "status": "exited"
+    },
+    {
+      "name": "DuBois Chemicals",
+      "industry": "Specialty Chemicals",
+      "status": "exited"
+    },
+    {
+      "name": "At-Home Group",
+      "industry": "Retail",
+      "status": "exited"
+    }
+  ]
+}

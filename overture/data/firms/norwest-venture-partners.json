@@ -1,0 +1,86 @@
+{
+  "slug": "norwest-venture-partners",
+  "name": "Norwest Venture Partners",
+  "description": "Norwest Venture Partners (NVP) is a leading venture capital and growth equity firm with deep Minnesota roots tracing back to its founding in 1961 as part of Norwest Corporation (now Wells Fargo). Now headquartered in Palo Alto, the firm manages over $12 billion in capital and invests across enterprise, consumer, and healthcare sectors globally.",
+  "hq": {
+    "city": "Palo Alto",
+    "state": "CA"
+  },
+  "website": "https://www.nvp.com",
+  "aum": "$12B+",
+  "fundCount": 17,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Venture Capital",
+    "Growth Equity",
+    "Late-Stage Venture"
+  ],
+  "focusAreas": [
+    "Enterprise Software",
+    "Healthcare IT",
+    "Consumer Technology",
+    "Fintech",
+    "Cybersecurity",
+    "Data & Analytics"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Israel",
+    "India"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Promod Haque",
+      "title": "Senior Managing Partner",
+      "office": "Palo Alto, CA"
+    },
+    {
+      "name": "Jon Kossow",
+      "title": "Managing Partner",
+      "office": "Palo Alto, CA"
+    },
+    {
+      "name": "Jeff Crowe",
+      "title": "Managing Partner",
+      "office": "Palo Alto, CA"
+    },
+    {
+      "name": "Scott Raney",
+      "title": "Managing Partner",
+      "office": "Palo Alto, CA"
+    },
+    {
+      "name": "Parker A. Thompson",
+      "title": "Partner",
+      "office": "Minneapolis, MN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "UiPath",
+      "industry": "Enterprise Automation",
+      "status": "exited"
+    },
+    {
+      "name": "Snowflake",
+      "industry": "Cloud Data Platform",
+      "status": "exited"
+    },
+    {
+      "name": "Casper",
+      "industry": "Consumer E-Commerce",
+      "status": "exited"
+    },
+    {
+      "name": "Cleo",
+      "industry": "Enterprise Integration",
+      "status": "active"
+    },
+    {
+      "name": "Shape Security",
+      "industry": "Cybersecurity",
+      "status": "exited"
+    }
+  ]
+}

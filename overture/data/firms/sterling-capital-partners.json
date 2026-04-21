@@ -1,0 +1,52 @@
+{
+  "slug": "sterling-capital-partners",
+  "name": "Sterling Capital Partners",
+  "description": "Sterling Capital Partners is a private equity firm focused on middle-market buyout investments across business services, healthcare, industrials, and consumer sectors. The firm partners with management teams to drive operational improvements, strategic growth initiatives, and value creation through a disciplined, hands-on investment approach.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.sterlingcapitalpartners.com",
+  "aum": "$1B+",
+  "fundCount": 4,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Healthcare",
+    "Industrials",
+    "Consumer"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Charles C. Nabit",
+      "title": "Managing Partner",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Scott L. Yonce",
+      "title": "Partner",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Midland Packaging",
+      "industry": "Packaging",
+      "status": "active"
+    },
+    {
+      "name": "Pinnacle Building Services",
+      "industry": "Facility Services",
+      "status": "exited"
+    }
+  ]
+}

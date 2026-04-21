@@ -1,0 +1,98 @@
+{
+  "slug": "thoma-bravo",
+  "name": "Thoma Bravo",
+  "description": "Thoma Bravo is one of the largest and most active private equity firms focused on software and technology investments, with over $160 billion in assets under management. The firm pioneered the buy-and-build approach in software, applying disciplined operational improvement and consolidation strategies across its portfolio. Thoma Bravo has completed over 480 software acquisitions representing over $275 billion in transaction value.",
+  "hq": {
+    "city": "Miami",
+    "state": "FL"
+  },
+  "website": "https://www.thomabravo.com",
+  "aum": "$160B+",
+  "fundCount": 8,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Private Credit"
+  ],
+  "focusAreas": [
+    "Enterprise Software",
+    "Cybersecurity",
+    "Financial Technology",
+    "Healthcare Technology"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Orlando Bravo",
+      "title": "Co-Founder & Managing Partner",
+      "office": "Miami, FL"
+    },
+    {
+      "name": "Carl Thoma",
+      "title": "Co-Founder",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Holden Spaht",
+      "title": "Managing Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Robert Sayle",
+      "title": "Managing Partner",
+      "office": "Miami, FL"
+    },
+    {
+      "name": "Chip Virnig",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Scott Crabill",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "SailPoint",
+      "industry": "Identity Security",
+      "status": "active"
+    },
+    {
+      "name": "Informatica",
+      "industry": "Data Management",
+      "status": "exited"
+    },
+    {
+      "name": "Sophos",
+      "industry": "Cybersecurity",
+      "status": "exited"
+    },
+    {
+      "name": "Qlik",
+      "industry": "Data Analytics",
+      "status": "active"
+    },
+    {
+      "name": "Medallia",
+      "industry": "Customer Experience Software",
+      "status": "active"
+    },
+    {
+      "name": "Ping Identity",
+      "industry": "Identity Security",
+      "status": "exited"
+    },
+    {
+      "name": "ForgeRock",
+      "industry": "Identity Management",
+      "status": "active"
+    }
+  ]
+}

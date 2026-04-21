@@ -1,0 +1,88 @@
+{
+  "slug": "audax-group",
+  "name": "Audax Group",
+  "description": "Audax Group is a leading alternative investment manager with over $5 billion in assets under management, focused on middle-market buyout and private debt investments. The firm targets companies with enterprise values between $100 million and $800 million, partnering with management teams to build value through organic growth and strategic add-on acquisitions.",
+  "hq": {
+    "city": "Boston",
+    "state": "MA"
+  },
+  "website": "https://www.audaxgroup.com",
+  "aum": "$5B+",
+  "fundCount": 8,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Private Debt",
+    "Add-on Acquisitions"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Consumer Services",
+    "Healthcare",
+    "Industrial Services",
+    "Technology"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Geoffrey S. Rehnert",
+      "title": "Co-CEO & Managing Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Jay R. Jester",
+      "title": "Co-CEO & Managing Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Timothy A. Nick",
+      "title": "Managing Director",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Robert J. Fenstermacher",
+      "title": "Managing Director",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "William C. Kennedy",
+      "title": "Managing Director",
+      "office": "Boston, MA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Charter Next Generation",
+      "industry": "Advanced Films & Packaging",
+      "status": "active"
+    },
+    {
+      "name": "Basic American Foods",
+      "industry": "Food Products",
+      "status": "active"
+    },
+    {
+      "name": "TrustBridge Partners",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "Envoy Air",
+      "industry": "Aviation Services",
+      "status": "exited"
+    },
+    {
+      "name": "York Risk Services Group",
+      "industry": "Insurance Services",
+      "status": "exited"
+    },
+    {
+      "name": "Revolution Group",
+      "industry": "Business Services",
+      "status": "active"
+    }
+  ]
+}

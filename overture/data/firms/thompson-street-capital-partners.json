@@ -1,0 +1,81 @@
+{
+  "slug": "thompson-street-capital-partners",
+  "name": "Thompson Street Capital Partners",
+  "description": "Thompson Street Capital Partners is a Chicago-based private equity firm focused on investing in lower middle-market companies with enterprise values between $25 million and $250 million. The firm partners with management teams to drive growth in business services, healthcare, and industrial technology companies, leveraging operational expertise and a collaborative investment approach.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.tspcapital.com",
+  "aum": "$2.0B+",
+  "fundCount": 6,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Healthcare",
+    "Industrial Technology"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "James T. O'Connor Jr.",
+      "title": "Founder & Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "William R. Mauer",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "John H. Hagedorn",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Michael J. Sheehan",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Brendan D. O'Connor",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "SafeRack",
+      "industry": "Industrial Safety Equipment",
+      "status": "active"
+    },
+    {
+      "name": "PowerPlan",
+      "industry": "Software",
+      "status": "active"
+    },
+    {
+      "name": "Precision Medical Technologies",
+      "industry": "Healthcare Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "Etech Global Services",
+      "industry": "Business Services",
+      "status": "active"
+    },
+    {
+      "name": "Builders CADware",
+      "industry": "Software",
+      "status": "exited"
+    }
+  ]
+}

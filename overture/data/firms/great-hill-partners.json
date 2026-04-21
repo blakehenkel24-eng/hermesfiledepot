@@ -1,0 +1,87 @@
+{
+  "slug": "great-hill-partners",
+  "name": "Great Hill Partners",
+  "description": "Great Hill Partners is a Boston-based middle-market private equity firm targeting investments in growth companies across digital commerce, education, financial technology, healthcare, and software. The firm manages over $3.5 billion in capital and partners with management teams to build leading companies through a combination of organic growth initiatives and strategic add-on acquisitions.",
+  "hq": {
+    "city": "Boston",
+    "state": "MA"
+  },
+  "website": "https://www.greathillpartners.com",
+  "aum": "$3.5B+",
+  "fundCount": 6,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Digital Commerce",
+    "Education Technology",
+    "Financial Technology",
+    "Healthcare",
+    "Software"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Michael A. Kumin",
+      "title": "Managing Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "David S. Teten",
+      "title": "Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "John G. Sims",
+      "title": "Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Ryan P. Bloom",
+      "title": "Partner",
+      "office": "Boston, MA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Activest",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "Apex Fintech Solutions",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "Buynova",
+      "industry": "Digital Commerce",
+      "status": "active"
+    },
+    {
+      "name": "Cengage",
+      "industry": "Education",
+      "status": "active"
+    },
+    {
+      "name": "Wayfair",
+      "industry": "E-Commerce",
+      "status": "exited"
+    },
+    {
+      "name": "Tripadvisor",
+      "industry": "Digital Media",
+      "status": "exited"
+    },
+    {
+      "name": "IGN Entertainment",
+      "industry": "Digital Media",
+      "status": "exited"
+    }
+  ]
+}

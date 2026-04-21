@@ -1,0 +1,82 @@
+{
+  "slug": "heritage-group",
+  "name": "Heritage Group",
+  "description": "Heritage Group is a Nashville-based private equity firm exclusively focused on the healthcare sector, investing in middle-market companies across healthcare services, pharmaceutical services, and healthcare technology. The firm combines deep domain expertise with operational support to help portfolio companies navigate the complex healthcare landscape and drive growth.",
+  "hq": {
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "website": "https://www.heritagegroupusa.com",
+  "aum": "$800M+",
+  "fundCount": 4,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Healthcare Services",
+    "Pharmaceutical Services",
+    "Healthcare Technology",
+    "MedTech",
+    "Value-Based Care"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Rock Morrell",
+      "title": "Managing Partner",
+      "office": "Nashville, TN"
+    },
+    {
+      "name": "Scott L. Smith",
+      "title": "Partner",
+      "office": "Nashville, TN"
+    },
+    {
+      "name": "Chris Brown",
+      "title": "Partner",
+      "office": "Nashville, TN"
+    },
+    {
+      "name": "Phil M. Young",
+      "title": "Partner",
+      "office": "Nashville, TN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Pruvia Health",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "WellSuccess",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "VetEvolve",
+      "industry": "Veterinary Services",
+      "status": "active"
+    },
+    {
+      "name": "DASCena",
+      "industry": "Healthcare Technology",
+      "status": "active"
+    },
+    {
+      "name": "Acclivity Health",
+      "industry": "Healthcare Technology",
+      "status": "active"
+    },
+    {
+      "name": "Collective Medical",
+      "industry": "Healthcare Technology",
+      "status": "exited"
+    }
+  ]
+}

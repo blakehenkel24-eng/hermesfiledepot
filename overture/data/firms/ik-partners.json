@@ -1,0 +1,83 @@
+{
+  "slug": "ik-partners",
+  "name": "IK Partners",
+  "description": "IK Partners (formerly IK Investment Partners) is a leading European mid-market private equity firm with a pan-European footprint and growing North American presence. The firm invests primarily in companies based in the DACH region, France, the Nordics, and the UK, focusing on industrial, healthcare, services, and technology sectors with a hands-on, value-creation approach.",
+  "hq": {
+    "city": "London",
+    "state": ""
+  },
+  "website": "https://www.ikpartners.com",
+  "aum": "€10B+",
+  "fundCount": 11,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Industrial",
+    "Healthcare",
+    "Business Services",
+    "Technology",
+    "Consumer"
+  ],
+  "geographicFocus": [
+    "Europe",
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Christopher R. Masek",
+      "title": "Managing Partner & CEO",
+      "office": "London, UK"
+    },
+    {
+      "name": "Frederic L. Gaultier",
+      "title": "Partner",
+      "office": "Paris, France"
+    },
+    {
+      "name": "Dieter R. Hinnen",
+      "title": "Partner",
+      "office": "Hamburg, Germany"
+    },
+    {
+      "name": "Carl-Gustaf von Schacky",
+      "title": "Partner",
+      "office": "Stockholm, Sweden"
+    },
+    {
+      "name": "Alexander R. Gloyer",
+      "title": "Partner",
+      "office": "Hamburg, Germany"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "GHD Group",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "ASG Security",
+      "industry": "Security Services",
+      "status": "active"
+    },
+    {
+      "name": "Oxea Group",
+      "industry": "Specialty Chemicals",
+      "status": "exited"
+    },
+    {
+      "name": "VPS Group",
+      "industry": "Property Services",
+      "status": "active"
+    },
+    {
+      "name": "MIPS",
+      "industry": "Industrial Safety",
+      "status": "exited"
+    }
+  ]
+}

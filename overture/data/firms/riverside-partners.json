@@ -1,0 +1,76 @@
+{
+  "slug": "riverside-partners",
+  "name": "Riverside Partners",
+  "description": "Riverside Partners is a Boston-based private equity firm specializing in investments in healthcare and technology companies, with a focus on the lower middle market. The firm partners with management teams to build value through operational improvements, strategic add-on acquisitions, and targeted growth initiatives in complex, niche market segments.",
+  "hq": {
+    "city": "Boston",
+    "state": "MA"
+  },
+  "website": "https://www.riversidepartners.com",
+  "aum": "$1.5B+",
+  "fundCount": 6,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Healthcare",
+    "Technology",
+    "Technology-Enabled Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "David K. Beeber",
+      "title": "Managing Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Salvatore A. Guerrera",
+      "title": "Managing Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Scott M. Benson",
+      "title": "General Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Peter J. Loughlin",
+      "title": "General Partner",
+      "office": "Boston, MA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Mako Surgical",
+      "industry": "Medical Devices",
+      "status": "exited"
+    },
+    {
+      "name": "American Renal Associates",
+      "industry": "Healthcare Services",
+      "status": "exited"
+    },
+    {
+      "name": "ImagineSoftware",
+      "industry": "Healthcare Technology",
+      "status": "active"
+    },
+    {
+      "name": "Halsen",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "Access eForms",
+      "industry": "Technology",
+      "status": "active"
+    }
+  ]
+}

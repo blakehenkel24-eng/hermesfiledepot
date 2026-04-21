@@ -1,0 +1,65 @@
+{
+  "slug": "harbert-management-corporation",
+  "name": "Harbert Management Corporation",
+  "description": "Harbert Management Corporation (HMC) is a Birmingham-based alternative investment management firm with a significant office in Atlanta and over $8 billion in assets under management. The firm manages a diversified platform spanning private equity, real estate, venture capital, and growth equity strategies, with a particular focus on opportunities across the Southeast United States.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.harbert.net",
+  "aum": "$8B+",
+  "fundCount": 7,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Real Estate",
+    "Venture Capital"
+  ],
+  "focusAreas": [
+    "Healthcare",
+    "Technology",
+    "Business Services",
+    "Industrials",
+    "Real Estate"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Raymond J. Harbert",
+      "title": "Chairman & CEO",
+      "office": "Birmingham, AL"
+    },
+    {
+      "name": "David G. Osborne",
+      "title": "Managing Director, Private Equity",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Clark D. Webb",
+      "title": "Managing Director",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Aptean",
+      "industry": "Enterprise Software",
+      "status": "exited"
+    },
+    {
+      "name": "Veriship",
+      "industry": "Logistics Technology",
+      "status": "active"
+    },
+    {
+      "name": "Power Plan",
+      "industry": "Utility Software",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "tpg",
+  "name": "TPG Inc.",
+  "description": "TPG is a leading global alternative asset manager founded in 1992, managing a diversified platform spanning private equity, growth equity, impact investing, real estate, and public markets. The firm operates through multiple strategies including TPG Capital (buyout), TPG Growth, The Rise Fund (impact), and TPG Angelo Gordon (credit/real estate). TPG is publicly traded on NASDAQ and is known for its contrarian, high-conviction investment approach across a wide range of sectors and geographies.",
+  "hq": {
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  "website": "https://www.tpg.com",
+  "aum": "$230B+",
+  "fundCount": 30,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Impact Investing",
+    "Real Estate",
+    "Public Equity",
+    "Credit"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Healthcare",
+    "Industrials",
+    "Consumer",
+    "Financial Services",
+    "Real Estate",
+    "Energy"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe",
+    "Asia"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Jon Winkelried",
+      "title": "Chief Executive Officer",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Jim Coulter",
+      "title": "Founding Partner & Executive Chairman",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "David Bonderman",
+      "title": "Founding Partner",
+      "office": "Fort Worth, TX"
+    },
+    {
+      "name": "Todd Sisitsky",
+      "title": "Managing Partner, TPG Capital",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Mike Stone",
+      "title": "Partner, TPG Capital",
+      "office": "Fort Worth, TX"
+    },
+    {
+      "name": "Kendra Trojan",
+      "title": "Partner, TPG Capital",
+      "office": "Fort Worth, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Cushman & Wakefield",
+      "industry": "Commercial Real Estate Services",
+      "status": "active"
+    },
+    {
+      "name": "Petco",
+      "industry": "Pet Retail",
+      "status": "active"
+    },
+    {
+      "name": "McAfee",
+      "industry": "Cybersecurity",
+      "status": "active"
+    },
+    {
+      "name": "Circle",
+      "industry": "Financial Technology",
+      "status": "active"
+    },
+    {
+      "name": "HealthCare Partners",
+      "industry": "Healthcare Services",
+      "status": "exited"
+    },
+    {
+      "name": "Uber",
+      "industry": "Technology",
+      "status": "exited"
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Technology",
+      "status": "exited"
+    },
+    {
+      "name": "Burger King",
+      "industry": "Quick Service Restaurant",
+      "status": "exited"
+    },
+    {
+      "name": "Lenovo",
+      "industry": "Technology Hardware",
+      "status": "exited"
+    },
+    {
+      "name": "J. Crew",
+      "industry": "Apparel Retail",
+      "status": "exited"
+    },
+    {
+      "name": "Continental Airlines",
+      "industry": "Airlines",
+      "status": "exited"
+    }
+  ]
+}

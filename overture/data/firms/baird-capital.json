@@ -1,0 +1,83 @@
+{
+  "slug": "baird-capital",
+  "name": "Baird Capital",
+  "description": "Baird Capital is the private equity and venture capital arm of Robert W. Baird & Co., investing in middle-market companies across healthcare, technology, and business services. With offices in Chicago, Milwaukee, and internationally, the firm combines deep sector expertise with a collaborative, partnership-driven approach to help portfolio companies accelerate growth and operational performance.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.bairdcapital.com",
+  "aum": "$3.5B+",
+  "fundCount": 7,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Venture Capital"
+  ],
+  "focusAreas": [
+    "Healthcare",
+    "Technology & Business Services",
+    "Global Manufacturing"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe",
+    "Asia"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Andrew J. Brickley",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "G. Joel Montague Jr.",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Paul L. Hoffmann",
+      "title": "Partner",
+      "office": "Milwaukee, WI"
+    },
+    {
+      "name": "Christopher J. Perry",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Gordon R. Pan",
+      "title": "Partner",
+      "office": "Milwaukee, WI"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Mediware Information Systems",
+      "industry": "Healthcare Technology",
+      "status": "exited"
+    },
+    {
+      "name": "Riverside Medical Center",
+      "industry": "Healthcare",
+      "status": "active"
+    },
+    {
+      "name": "Ekan Management",
+      "industry": "Business Services",
+      "status": "active"
+    },
+    {
+      "name": "ConvergeOne",
+      "industry": "Technology Services",
+      "status": "exited"
+    },
+    {
+      "name": "PCR Group",
+      "industry": "Business Services",
+      "status": "active"
+    }
+  ]
+}

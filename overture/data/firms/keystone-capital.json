@@ -1,0 +1,61 @@
+{
+  "slug": "keystone-capital",
+  "name": "Keystone Capital",
+  "description": "Keystone Capital is a Chicago-based private equity firm that invests in middle-market companies across healthcare, technology, and business services. The firm takes a long-term, partnership-oriented approach to building enterprise value.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.keystonecapital.com",
+  "aum": "$2B+",
+  "fundCount": 4,
+  "tier": 2,
+  "dateAdded": "2026-02-01",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Healthcare",
+    "Technology",
+    "Business Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Kent Dauten",
+      "title": "Founder & Chairman",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Jack Boyczun",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "David Bateman",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Amy Schulz",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Physicians Immediate Care",
+      "industry": "Healthcare",
+      "status": "active"
+    },
+    {
+      "name": "Blue Vapor",
+      "industry": "Technology",
+      "status": "active"
+    }
+  ]
+}

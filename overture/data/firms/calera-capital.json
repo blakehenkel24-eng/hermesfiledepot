@@ -1,0 +1,83 @@
+{
+  "slug": "calera-capital",
+  "name": "Calera Capital",
+  "description": "Calera Capital is a San Francisco-based private equity firm focused on middle-market buyout investments, targeting companies with strong franchises in defensible industries. The firm partners with management teams to create long-term value through operational improvements, strategic repositioning, and disciplined capital allocation, typically investing $50-150 million per transaction.",
+  "hq": {
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "website": "https://www.caleracapital.com",
+  "aum": "$1.5B+",
+  "fundCount": 5,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Financial Services",
+    "Business Services",
+    "Industrials",
+    "Healthcare Services",
+    "Consumer"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "James D. (Jim) Etle",
+      "title": "Managing Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Robert H. (Bob) Zerunyan",
+      "title": "Managing Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "James W. Hickey",
+      "title": "General Partner",
+      "office": "San Francisco, CA"
+    },
+    {
+      "name": "Thomas B. (Tom) Lutfy",
+      "title": "Partner",
+      "office": "San Francisco, CA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Kestra Financial",
+      "industry": "Financial Services",
+      "status": "active"
+    },
+    {
+      "name": "Epik Foods",
+      "industry": "Food & Beverage",
+      "status": "active"
+    },
+    {
+      "name": "MedRisk",
+      "industry": "Healthcare Services",
+      "status": "active"
+    },
+    {
+      "name": "P&R Containers",
+      "industry": "Industrial Services",
+      "status": "active"
+    },
+    {
+      "name": "First Command Financial Services",
+      "industry": "Financial Services",
+      "status": "exited"
+    },
+    {
+      "name": "Employers Overload",
+      "industry": "Staffing",
+      "status": "exited"
+    }
+  ]
+}

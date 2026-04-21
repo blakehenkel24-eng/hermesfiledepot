@@ -1,0 +1,89 @@
+{
+  "slug": "clearlake-capital",
+  "name": "Clearlake Capital Group",
+  "description": "Clearlake Capital Group is a leading technology-focused investment firm with over $70 billion of assets under management. The firm employs an O.P.S. framework (Operations, People, Strategy) to drive value creation in its portfolio companies. Clearlake targets sectors where it has deep domain expertise including technology, industrials, and consumer products and services.",
+  "hq": {
+    "city": "Santa Monica",
+    "state": "CA"
+  },
+  "website": "https://www.clearlakecapital.com",
+  "aum": "$70B+",
+  "fundCount": 7,
+  "tier": 1,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Credit",
+    "Add-on Acquisitions"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Industrials",
+    "Consumer",
+    "Healthcare"
+  ],
+  "geographicFocus": [
+    "United States",
+    "Europe"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Behdad Eghbali",
+      "title": "Co-Founder & Managing Partner",
+      "office": "Santa Monica, CA"
+    },
+    {
+      "name": "Jose E. Feliciano",
+      "title": "Co-Founder & Managing Partner",
+      "office": "Santa Monica, CA"
+    },
+    {
+      "name": "Prashant Mehrotra",
+      "title": "Partner",
+      "office": "Santa Monica, CA"
+    },
+    {
+      "name": "Paul Huber",
+      "title": "Partner",
+      "office": "Santa Monica, CA"
+    },
+    {
+      "name": "James Zenni",
+      "title": "Operating Partner",
+      "office": "Santa Monica, CA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Chelsea Football Club",
+      "industry": "Sports & Entertainment",
+      "status": "active"
+    },
+    {
+      "name": "Perforce Software",
+      "industry": "Enterprise Software",
+      "status": "active"
+    },
+    {
+      "name": "Quest Software",
+      "industry": "Enterprise Software",
+      "status": "active"
+    },
+    {
+      "name": "Cornerstone Building Brands (stake)",
+      "industry": "Building Products",
+      "status": "active"
+    },
+    {
+      "name": "IVP (Institutional Venture Partners)",
+      "industry": "Venture Capital",
+      "status": "exited"
+    },
+    {
+      "name": "Panda Restaurant Group",
+      "industry": "Restaurant/Franchise",
+      "status": "active"
+    }
+  ]
+}

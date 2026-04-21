@@ -1,0 +1,51 @@
+{
+  "slug": "southlake-equity-group",
+  "name": "Southlake Equity Group",
+  "description": "Southlake Equity Group is a private equity investment firm based in the Dallas-Fort Worth metroplex focused on acquiring and building middle-market companies. The firm invests across a range of industries, partnering with management teams to drive operational improvements and strategic growth initiatives. Southlake Equity targets businesses with strong fundamentals and clear paths to value creation through hands-on engagement and strategic add-on acquisitions.",
+  "hq": {
+    "city": "Southlake",
+    "state": "TX"
+  },
+  "website": "https://www.southlakeequity.com",
+  "aum": "$500M+",
+  "fundCount": 2,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Healthcare Services",
+    "Industrials",
+    "Consumer Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "John D. Martin",
+      "title": "Managing Partner",
+      "office": "Southlake, TX"
+    },
+    {
+      "name": "R. Brian McLaughlin",
+      "title": "Partner",
+      "office": "Southlake, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Service Experts",
+      "industry": "HVAC Services",
+      "status": "active"
+    },
+    {
+      "name": "Airtron",
+      "industry": "HVAC & Plumbing Services",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "argonne-capital-group",
+  "name": "Argonne Capital Group",
+  "description": "Argonne Capital Group is an Atlanta-based private investment firm focused on franchise restaurant and multi-unit service brand investments. The firm partners with experienced operators to acquire and grow franchise concepts and restaurant platforms, leveraging deep domain expertise in the franchised restaurant sector.",
+  "hq": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "website": "https://www.argonnecapital.com",
+  "aum": "$500M+",
+  "fundCount": 2,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Franchise/Multi-Unit",
+    "Restaurant",
+    "Consumer Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Michael Kluge",
+      "title": "Managing Partner",
+      "office": "Atlanta, GA"
+    },
+    {
+      "name": "Jason Lehmkuhl",
+      "title": "Partner",
+      "office": "Atlanta, GA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Krystal Restaurants",
+      "industry": "Restaurant",
+      "status": "active"
+    },
+    {
+      "name": "AppleGold Restaurant Group",
+      "industry": "Restaurant (Applebee's Franchisee)",
+      "status": "active"
+    },
+    {
+      "name": "Sun Holdings",
+      "industry": "Restaurant Franchise Platform",
+      "status": "active"
+    }
+  ]
+}

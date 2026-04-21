@@ -1,0 +1,88 @@
+{
+  "slug": "blue-point-capital-partners",
+  "name": "Blue Point Capital Partners",
+  "description": "Blue Point Capital Partners is a Cleveland-based private equity firm investing in lower middle-market companies with revenues between $25 million and $250 million. The firm takes a hands-on approach to value creation, partnering closely with management teams to drive operational improvements, organic growth, and strategic acquisitions across diverse industries.",
+  "hq": {
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "website": "https://www.bluepointcapital.com",
+  "aum": "$700M+",
+  "fundCount": 4,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Industrial Services",
+    "Manufacturing",
+    "Healthcare Services",
+    "Specialty Distribution"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Michael (Mike) A. Farino",
+      "title": "Managing Partner",
+      "office": "Cleveland, OH"
+    },
+    {
+      "name": "Scott R. Fine",
+      "title": "Managing Partner",
+      "office": "Cleveland, OH"
+    },
+    {
+      "name": "Thomas (Tom) W. Geyer",
+      "title": "Partner",
+      "office": "Cleveland, OH"
+    },
+    {
+      "name": "Randy S. Duvall",
+      "title": "Partner",
+      "office": "Cleveland, OH"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Tailored Label Products",
+      "industry": "Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "Creative Coatings",
+      "industry": "Industrial Services",
+      "status": "active"
+    },
+    {
+      "name": "PC Matic",
+      "industry": "Cybersecurity",
+      "status": "active"
+    },
+    {
+      "name": "Avtron Power Solutions",
+      "industry": "Industrial Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "North Point Technology",
+      "industry": "IT Services",
+      "status": "active"
+    },
+    {
+      "name": "Eastern Lift Truck",
+      "industry": "Industrial Distribution",
+      "status": "exited"
+    },
+    {
+      "name": "Heartland Building Systems",
+      "industry": "Building Products",
+      "status": "exited"
+    }
+  ]
+}

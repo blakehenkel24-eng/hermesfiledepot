@@ -1,0 +1,52 @@
+{
+  "slug": "hill-capital-corporation",
+  "name": "Hill Capital Corporation",
+  "description": "Hill Capital Corporation is a Minneapolis-based private equity and growth equity firm that provides capital and strategic support to lower middle-market companies. The firm targets established businesses with proven business models and meaningful growth potential across a range of industries.",
+  "hq": {
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "website": "https://www.hillcapitalcorp.com",
+  "aum": "$200M+",
+  "fundCount": 3,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Growth Equity",
+    "Buyout",
+    "Minority Investments"
+  ],
+  "focusAreas": [
+    "Technology",
+    "Business Services",
+    "Industrial Services",
+    "Healthcare"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Brian K. Johnson",
+      "title": "Managing Director",
+      "office": "Minneapolis, MN"
+    },
+    {
+      "name": "Michael J. Noonan",
+      "title": "Managing Director",
+      "office": "Minneapolis, MN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Windings Inc.",
+      "industry": "Specialty Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "Specright",
+      "industry": "Enterprise Software",
+      "status": "active"
+    }
+  ]
+}

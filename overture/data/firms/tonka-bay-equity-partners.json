@@ -1,0 +1,62 @@
+{
+  "slug": "tonka-bay-equity-partners",
+  "name": "Tonka Bay Equity Partners",
+  "description": "Tonka Bay Equity Partners is a lower middle-market private equity firm based in the Minneapolis suburb of Excelsior, Minnesota. The firm specializes in management buyouts, recapitalizations, and growth capital investments in companies with strong market positions in niche industries.",
+  "hq": {
+    "city": "Excelsior",
+    "state": "MN"
+  },
+  "website": "https://www.tonkabayep.com",
+  "aum": "$600M+",
+  "fundCount": 5,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Niche Manufacturing",
+    "Value-Added Distribution",
+    "Specialty Business Services",
+    "Industrial Technology"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Bill Kinder",
+      "title": "Founder & Managing Partner",
+      "office": "Excelsior, MN"
+    },
+    {
+      "name": "Jeff Salowitz",
+      "title": "Partner",
+      "office": "Excelsior, MN"
+    },
+    {
+      "name": "Chris Kuehn",
+      "title": "Partner",
+      "office": "Excelsior, MN"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Onex Inc.",
+      "industry": "Specialty Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "AGT Robotics",
+      "industry": "Industrial Automation",
+      "status": "active"
+    },
+    {
+      "name": "American Theatre Systems",
+      "industry": "Consumer Products",
+      "status": "exited"
+    }
+  ]
+}

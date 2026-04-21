@@ -1,0 +1,77 @@
+{
+  "slug": "tailwater-capital",
+  "name": "Tailwater Capital",
+  "description": "Tailwater Capital is a Dallas-based private equity firm focused exclusively on the energy sector, with deep expertise in midstream infrastructure, upstream, and energy services investments. The firm partners with experienced management teams to build and grow energy businesses, leveraging extensive industry relationships and operational expertise. Tailwater has executed over $9 billion in transactions since inception and is one of the most active energy-focused PE firms in the United States.",
+  "hq": {
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "website": "https://www.tailwatercapital.com",
+  "aum": "$3.5B+",
+  "fundCount": 5,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Infrastructure"
+  ],
+  "focusAreas": [
+    "Energy Midstream",
+    "Energy Infrastructure",
+    "Oil & Gas Services",
+    "Renewable Energy"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Jason Downie",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Edward Herring",
+      "title": "Managing Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Harry Weisell",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    },
+    {
+      "name": "Adam Prentice",
+      "title": "Partner",
+      "office": "Dallas, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Goodnight Midstream",
+      "industry": "Produced Water Infrastructure",
+      "status": "active"
+    },
+    {
+      "name": "Rockcliff Energy",
+      "industry": "Natural Gas E&P",
+      "status": "exited"
+    },
+    {
+      "name": "Eagle Rock Energy Partners",
+      "industry": "Midstream Services",
+      "status": "exited"
+    },
+    {
+      "name": "Align Midstream Partners",
+      "industry": "Midstream Gathering & Processing",
+      "status": "active"
+    },
+    {
+      "name": "Fleur de Lis Energy",
+      "industry": "Oil & Gas Exploration",
+      "status": "exited"
+    }
+  ]
+}

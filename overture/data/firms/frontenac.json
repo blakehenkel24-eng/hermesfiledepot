@@ -1,0 +1,77 @@
+{
+  "slug": "frontenac",
+  "name": "Frontenac",
+  "description": "Frontenac is a Chicago-based private equity firm founded in 1971, making it one of the oldest private equity firms in the United States. The firm specializes in investing in consumer and services companies through its distinctive CEO1ST approach, partnering with experienced executives who become equity-owning leaders of portfolio companies to drive transformational growth.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.frontenac.com",
+  "aum": "$2.0B+",
+  "fundCount": 6,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Consumer",
+    "Business Services",
+    "Food & Beverage",
+    "Healthcare Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Paul S. Yovovich",
+      "title": "Co-Founder & Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "W. Carter P. Pate",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Milan S. Petrovic",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Philip R. Friedman",
+      "title": "Operating Partner",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Derstine Hennessy",
+      "industry": "Insurance Services",
+      "status": "active"
+    },
+    {
+      "name": "United Isotonix",
+      "industry": "Consumer Products",
+      "status": "active"
+    },
+    {
+      "name": "Culligan (prior involvement)",
+      "industry": "Consumer Water Treatment",
+      "status": "exited"
+    },
+    {
+      "name": "Riverside Foods",
+      "industry": "Food & Beverage",
+      "status": "active"
+    },
+    {
+      "name": "J.A. Preston",
+      "industry": "Business Services",
+      "status": "exited"
+    }
+  ]
+}

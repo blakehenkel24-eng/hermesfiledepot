@@ -1,0 +1,73 @@
+{
+  "slug": "insight-equity",
+  "name": "Insight Equity",
+  "description": "Insight Equity is a Southlake, Texas-based private equity firm focused on investing in middle-market industrial, manufacturing, aerospace & defense, and business services companies. The firm specializes in complex transactions including corporate carve-outs, underperforming businesses, and companies requiring operational transformation. Insight Equity brings deep operational expertise and a disciplined approach to driving sustainable value creation through hands-on management engagement.",
+  "hq": {
+    "city": "Southlake",
+    "state": "TX"
+  },
+  "website": "https://www.insightequity.com",
+  "aum": "$1.5B+",
+  "fundCount": 4,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Carve-out",
+    "Operational Turnaround"
+  ],
+  "focusAreas": [
+    "Industrials",
+    "Manufacturing",
+    "Aerospace & Defense",
+    "Business Services",
+    "Specialty Chemicals"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Ted Benham",
+      "title": "Managing Partner",
+      "office": "Southlake, TX"
+    },
+    {
+      "name": "Ross Kirtley",
+      "title": "Partner",
+      "office": "Southlake, TX"
+    },
+    {
+      "name": "Matthew D. Hulse",
+      "title": "Partner",
+      "office": "Southlake, TX"
+    },
+    {
+      "name": "David Griffin",
+      "title": "Principal",
+      "office": "Southlake, TX"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Sun Source",
+      "industry": "Industrial Distribution",
+      "status": "active"
+    },
+    {
+      "name": "ATCO Rubber Products",
+      "industry": "Manufacturing",
+      "status": "exited"
+    },
+    {
+      "name": "Parsley Energy Services",
+      "industry": "Oilfield Services",
+      "status": "exited"
+    },
+    {
+      "name": "Chemical Victoria",
+      "industry": "Specialty Chemicals",
+      "status": "active"
+    }
+  ]
+}

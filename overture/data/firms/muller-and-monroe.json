@@ -1,0 +1,76 @@
+{
+  "slug": "muller-and-monroe",
+  "name": "Muller & Monroe",
+  "description": "Muller & Monroe is a Chicago-based private equity firm focused on investing in lower middle-market companies with enterprise values between $10 million and $75 million. The firm targets businesses with defensible market positions and partners with management teams to drive operational improvements and profitable growth, with particular expertise in niche manufacturing, business services, and value-added distribution.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.mullerandmonroe.com",
+  "aum": "$400M+",
+  "fundCount": 3,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Niche Manufacturing",
+    "Business Services",
+    "Value-Added Distribution",
+    "Industrial Services"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Robert J. (Bob) Muller",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Timothy (Tim) D. Monroe",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Michael P. O'Brien",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "David K. Anderson",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "National Packaging Solutions",
+      "industry": "Packaging",
+      "status": "active"
+    },
+    {
+      "name": "Precision Castparts Group",
+      "industry": "Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "Allied Fire Protection",
+      "industry": "Industrial Services",
+      "status": "active"
+    },
+    {
+      "name": "Great Lakes Labels",
+      "industry": "Specialty Printing",
+      "status": "active"
+    },
+    {
+      "name": "Heartland Industrial",
+      "industry": "Manufacturing",
+      "status": "exited"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "civc-partners",
+  "name": "CIVC Partners",
+  "description": "CIVC Partners is a Chicago-based private equity firm focused on investments in middle-market business services, financial services, and healthcare companies. The firm has a 30+ year track record of partnering with management teams to accelerate growth.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.civc.com",
+  "aum": "$1.5B+",
+  "fundCount": 5,
+  "tier": 2,
+  "dateAdded": "2026-02-01",
+  "investmentStrategy": [
+    "Buyout",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Financial Services",
+    "Healthcare"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Ralph I. Moyer",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "John R. Clevenger",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Peter D. Smith",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Precision Aerodynamics",
+      "industry": "Aerospace",
+      "status": "active"
+    },
+    {
+      "name": "Allegient",
+      "industry": "Business Services",
+      "status": "active"
+    }
+  ]
+}

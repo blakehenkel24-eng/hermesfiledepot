@@ -1,0 +1,66 @@
+{
+  "slug": "sealink-capital-partners",
+  "name": "SeaLink Capital Partners",
+  "description": "SeaLink Capital Partners is a lower middle-market private equity firm that invests in growing businesses across diversified industries, partnering with management teams to drive operational improvements and strategic growth. The firm targets companies with strong market positions and clear paths to value creation through add-on acquisitions and operational excellence.",
+  "hq": {
+    "city": "Boston",
+    "state": "MA"
+  },
+  "website": "https://www.sealinkcapital.com",
+  "aum": "$500M+",
+  "fundCount": 2,
+  "tier": 3,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Recapitalization"
+  ],
+  "focusAreas": [
+    "Business Services",
+    "Industrial Services",
+    "Healthcare Services",
+    "Technology"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Brian H. Stone",
+      "title": "Managing Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "Christopher J. O'Brien",
+      "title": "Partner",
+      "office": "Boston, MA"
+    },
+    {
+      "name": "David E. O'Gara",
+      "title": "Partner",
+      "office": "Boston, MA"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "TechSpray",
+      "industry": "Industrial Manufacturing",
+      "status": "active"
+    },
+    {
+      "name": "A1 Packaging",
+      "industry": "Packaging",
+      "status": "active"
+    },
+    {
+      "name": "CWSI",
+      "industry": "Technology Services",
+      "status": "active"
+    },
+    {
+      "name": "Guardian Water Services",
+      "industry": "Environmental Services",
+      "status": "active"
+    }
+  ]
+}

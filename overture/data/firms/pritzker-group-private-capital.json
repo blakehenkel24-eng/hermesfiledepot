@@ -1,0 +1,76 @@
+{
+  "slug": "pritzker-group-private-capital",
+  "name": "Pritzker Group Private Capital",
+  "description": "Pritzker Group Private Capital is the private equity and permanent capital investment arm of the Pritzker family, one of America's most prominent business families based in Chicago. The firm acquires and operates middle-market companies in manufacturing, services, and healthcare, with a permanent capital structure that enables long-term value creation without the constraints of traditional fund timelines.",
+  "hq": {
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "website": "https://www.pritzkerprivatecapital.com",
+  "aum": "$3.0B+",
+  "fundCount": 1,
+  "tier": 2,
+  "dateAdded": "2026-04-21",
+  "investmentStrategy": [
+    "Buyout",
+    "Permanent Capital",
+    "Growth Equity"
+  ],
+  "focusAreas": [
+    "Manufacturing",
+    "Services",
+    "Healthcare"
+  ],
+  "geographicFocus": [
+    "United States"
+  ],
+  "keyPersonnel": [
+    {
+      "name": "Tony Pritzker",
+      "title": "Managing Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Michael B. Ziebell",
+      "title": "Partner & COO",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Chris H. O'Brien",
+      "title": "Partner",
+      "office": "Chicago, IL"
+    },
+    {
+      "name": "Mark W. Hoplamazian",
+      "title": "Board Member",
+      "office": "Chicago, IL"
+    }
+  ],
+  "portfolioCompanies": [
+    {
+      "name": "Marmon Group",
+      "industry": "Manufacturing & Services",
+      "status": "active"
+    },
+    {
+      "name": "TMS International",
+      "industry": "Industrial Services",
+      "status": "active"
+    },
+    {
+      "name": "Cleveland HeartLab",
+      "industry": "Healthcare Diagnostics",
+      "status": "exited"
+    },
+    {
+      "name": "Lydian Staffing",
+      "industry": "Business Services",
+      "status": "active"
+    },
+    {
+      "name": "Clinical Innovations",
+      "industry": "Medical Devices",
+      "status": "active"
+    }
+  ]
+}
